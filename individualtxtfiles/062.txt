@@ -1,0 +1,11 @@
+OA146: Clearing the White Board!
+
+For many years, Schnauzer, a supplier of dog food, had accepted orders for dog food from Chow, the owner of a pet store, over the telephone. One day, Chow telephoned Schnauzer and ordered 840 pound bags of dog food, priced at $20 per bag, to be delivered to his store at the rate of 100 per month starting in January. On January 1, Schnauzer delivered 100 bags. With his check-in payment for the delivery, Chow sent Schnauzer a note saying, "$20 per bag is too high. I will not take the other 700 bags signed Chow". Schnauzer files suit alleging that Chow promised to buy 800 bags of dog food from him. In his defense, Chow pleads the statute of frauds.
+
+How should the court rule on this issue?
+
+A. For Schnauzer, because the note sent with Chao's check constitutes a writing sufficient to satisfy the statute of frauds.
+B. For Chao because the note sent with Chao's check was a repudiation rather than a memorandum of the oral agreement.
+C. For Chao because the note sent with Chao's check does not satisfy the Statute of Frauds.
+D. For Schnauzer because Chao received and accepted part of the goods.
+

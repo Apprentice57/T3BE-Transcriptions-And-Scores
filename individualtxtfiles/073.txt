@@ -1,0 +1,13 @@
+OA168: Michael Cohen Takes Five
+
+A landlord leased an apartment to a tenant by written lease for two years, ending on the last day of a recent month.
+
+The lease provided for $700 in monthly rent. The tenant occupied the apartment and paid the rent for the first 15 months of the lease term until he moved to another city to take a new job. Without consulting the landlord, the tenant moved a friend into the apartment and signed an informal writing transferring to the friend his "lease rights for the remaining nine months of the lease". The friend made the next four $700 rent payments to the landlord. But for the final five months of the lease term, no rent was paid by anyone, and the friend moved out with three months left on the term. A landlord was on an extended trip abroad and did not learn of the default and the vacancy until the end of the lease term. The landlord has sued the tenant and the friend jointly and severally for $3,500 for the last five months rent.
+
+What is the likely outcome of this lawsuit?
+
+A. Both the tenant and the friend are liable for the full $3,500 because the tenant is liable on privity of contract and the friend is liable on privity of estate as an assignee.
+B. The friend is liable for $1,400 on privity of estate, which lasted only until he vacated, and the tenant is liable for $2,100 on privity of contract and estate for the period after the friend vacated.
+C. The friend is liable for $3,500 on privity of estate and the tenant is not liable because of the landlord's failure to object to the friend's payment of rent relieved the tenant of liability.
+D. The tenant is liable for $3,500 on privity of contract and the friend is not liable because a sublessee does not have personal liability to the original landlord.
+

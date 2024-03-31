@@ -1,0 +1,11 @@
+OA219: Harvard and Affirmative Action
+
+A city zoning ordinance requires that anyone who proposes to operate a group home obtain a special use permit from the city zoning board. The zoning ordinance defines a group home as a residence in which four or more unrelated adults reside. An individual applied for a special use permit to operate a group home for convicts during their transition from serving prison sentences to their release on parole. Although the proposed group home met all of the requirements for the special use permit, the zoning board denied the individual's application because of the nature of the proposed use. The individual sued the zoning board seeking declaratory and injunctive relief on constitutional grounds.
+
+Which of the following best states the appropriate burden of persuasion in this action?
+
+A. Because housing is a fundamental right, the zoning board must demonstrate that denial of the permit is necessary to serve a compelling state interest.
+B. Because the zoning board’s action has the effect of discriminating against a quasi-suspect class in regard to a basic subsistence right, the zoning board must demonstrate that the denial of the permit is substantially related to an important state interest.
+C. Because the zoning board’s action invidiously discriminates against a suspect class, the zoning board must demonstrate that denial of the permit is necessary to serve a compelling state interest
+D. Because the zoning board's action is in the nature of an economic or social welfare regulation, the individual seeking the permit must demonstrate that the denial of the permit is not rationally related to a legitimate state interest.
+

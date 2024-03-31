@@ -1,0 +1,11 @@
+OA223: A Victory for Voting Rights in Pennsylvania!
+
+An investor purchased a tract of commercial land, financing a large part of the purchase price with a loan from a business partner that was secured by a mortgage. The investor made the installment payments on the mortgage regularly for several years. Then the investor persuaded a neighbor to buy the land, subject to the mortgage to his partner. They expressly agreed that the neighbor would not assume and agree to pay the investor's debt to the partner. The investor's mortgage to the partner contained a due-on-sale clause stating, "If Mortgagor transfers his or her interest without the written consent of Mortgagee first obtained, then at Mortgagee’s option the entire principal balance of the debt secured by this Mortgage shall become immediately due and payable." However, without seeking his partner's consent, the investor conveyed the land to the neighbor, the deed stating that it was "subject to a mortgage to [the partner]" and giving details and recording data related to the mortgage. The neighbor took possession of the land and made several mortgage payments, which the partner accepted. Now, however, neither the neighbor nor the investor has made the last three mortgage payments. The partner has sued the neighbor for the amount of the delinquent payments.
+
+In this action, for whom should the court render judgment?
+
+A. The neighbor, because she did not assume and agree to pay the investor's mortgage debt.
+B. The neighbor, because she is not in privity of estate with the partner.
+C. The partner, because the investor's deed to the neighbor violated the due-on-sale clause.
+D. The partner, because the neighbor is in privity of estate with the partner.
+

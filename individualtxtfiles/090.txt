@@ -1,0 +1,11 @@
+OA203: Paul Manafort Convicted, Michael Cohen Pleads
+
+A construction company was digging a trench for a new sewer line in a street in a high-crime neighborhood. During the course of the construction, there had been many thefts of tools and equipment from the construction area. One night, the construction company’s employees neglected to place warning lights around the trench. A delivery truck drove into the trench and broke an axle. While the truck driver was looking for a telephone to call a tow truck, thieves broke into the truck and stole $350,000 worth of goods. The delivery company sued the construction company to recover for the $350,000 loss and for the damage to its truck. The construction company has stipulated that it was negligent in failing to place warning lights around the trench and admits liability for damage to the truck, but it denies liability for the loss of the goods.
+
+On cross-motions for summary judgment on the claim for the goods, how should the court rule?
+
+A. Deny both motions, because there is evidence to support a finding that the construction company should have realized that its negligence could create an opportunity for a third party to commit a crime.
+B. Grant the construction company’s motion, because no one could have foreseen that the failure to place warning lights could result in the loss of a cargo of valuable goods.
+C. Grant the construction company’s motion, because the criminal acts of third persons were a superseding cause of the loss.
+D. Grant the delivery company’s motion, because but for the construction company’s actions, the goods would not have been stolen.
+

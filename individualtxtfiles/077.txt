@@ -1,0 +1,15 @@
+OA176: It's Summer (Zervos) Time!
+
+A state legislature passed a statute providing that juries in criminal trials were to consist of 6 jurors, rather than 12, and that jury verdicts did not have to be unanimous but could be based on 5 votes out of 6 jurors.
+
+A defendant was tried for murder. Over his objection, he was tried by a jury composed of 6 jurors. The jurors found him guilty by a vote of 5 to 1, and over the defendant's objection, the court entered a judgment of conviction, which was affirmed on appeal by the state’s highest court.
+
+The defendant seeks to overturn his conviction in a habeas corpus proceeding in federal court, claiming that the trial court violated his constitutional rights by allowing both a non-unanimous jury verdict and a jury composed of fewer than 12 members.
+
+How is the federal court likely to rule in this action?
+
+A. It will set aside the conviction, because the jury was composed of fewer than 12 members.
+B. It will set aside the conviction, because the 6-person jury verdict was not unanimous.
+C. It will set aside the conviction, both because the jury was composed of fewer than 12 members and because the 6-person jury verdict was not unanimous.
+D. It will uphold the conviction.
+

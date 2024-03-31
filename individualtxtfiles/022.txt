@@ -1,0 +1,11 @@
+OA66: Sanctuary Cities
+
+At a yard sale, a seller puts out an old etching that he inherited from his aunt. He labels it with a price tag of $10. A buyer comes by, fully aware that it is the work of a famous Italian Renaissance artist, and quietly offers the $10 for an etching that he knows to be worth at least $100,000. When the seller finds out that he made an awful mistake and that the buyer knew it was a precious work of art, he sued to get the $100,000 or for return of the etching. The buyer defended by alleging that the seller did not act reasonably to protect himself by knowing what he was selling.
+
+Under the restatement of contracts and the majority rule in case law, will the court grant the buyers motion to dismiss the seller's complaint?
+
+A. Yes, the seller should have had the items appraised before selling them. The seller always must know the value of what is being offered for sale.
+B. Yes, the seller cannot rescind a contract just because he later regrets it. Either party may end up with a superior deal depending on luck, knowledge, and a variety of factors.
+C. No, because in some unilateral mistakes, rescission is allowed if there had been an unconscionably unequal exchange of values and there is no substantial hardship to the other party.
+D. No, because a party always has a right to rescind a contract where the value of the product or services does not live up to his reasonable expectation.
+

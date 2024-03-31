@@ -1,0 +1,11 @@
+OA199: Asbestos??!? (Or: Why Is This Man Smiling?)
+
+On January 5, a creditor loaned $1,000 to a debtor under a contract calling for the debtor to repay the loan at the rate of $100 per month payable on the first day of each month. On February 1, at the debtor's request, the creditor agreed to permit payment on February 5. On March 1, the debtor requested a similar time extension and the creditor replied, "Don’t bother me each month. Just change the date of payment to the fifth of the month. But you must now make the payments by cashier's check." The debtor said, "Okay," and made payments on March 5 and April 5 by cashier's check. On April 6, the creditor sold the loan contract to a bank but did not tell the bank about the agreement permitting payments on the fifth of the month. On April 6, the bank wrote to the debtor: "Your debt to [the creditor] has been assigned to us. We hereby inform you that all payments must be made on the first day of the month."
+
+Can the debtor justifiably insist that the payment date for the rest of the installments is the fifth of each month?
+
+A. No, because a contract modification is not binding on an assignee who had no knowledge of the modification.
+B. No, because although the creditor waived the condition of payment on the first of the month, the bank reinstated it.
+C. Yes, because although the creditor waived the condition of payment on the first of the month, the creditor could not assign to the bank his right to reinstate that condition.
+D. Yes, because the creditor could assign to the bank only those rights the creditor had in the contract at the time of the assignment.
+

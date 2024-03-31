@@ -1,0 +1,11 @@
+OA92: The Unfortunate Application of Statutes of Limitation and Davino Watson
+
+A man who was emotionally upset due to marital problems voluntarily checked into a private medical facility for treatment. State law provided that if he tried to leave against medical advice, the hospital could hold him for 72 hours while trying to convince him to stay. During the stay, he told his medical providers that he was intensely angry at his wife, who was living with another man, and he wanted to harm her. Despite that knowledge, the hospital issued him an unrestricted weekend pass. When he got out, he shot and killed his wife. The man's children sued the hospital for negligence. The hospital filed a motion to dismiss, mainly because there was no privity with the decedent and no duty owed to her.
+
+Will the court grant the motion to dismiss?
+
+A. No, because the hospital is strictly liable for releasing patients who it knows or should know represent an unreasonable danger to third persons.
+B. No, because the special relationship and the control between doctor and an inpatient mandates due care by the doctor to prevent a foreseeable danger to others.
+C. Yes, because there is no duty to control the conduct of another person to prevent that person from harming others.
+D. Yes, because the intervening acts of third parties are unforeseeable and cannot give rise to liability.
+

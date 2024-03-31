@@ -1,0 +1,11 @@
+OA195: Lordy, There Are Tapes!
+
+During negotiations to purchase a used car, a buyer asked a dealer whether the car had ever been in an accident. The dealer replied: "It is a fine car and has been thoroughly inspected and comes with a certificate of assured quality. Feel free to have the car inspected by your own mechanic." In actuality, the car had been in a major accident, and the dealer had repaired and repainted the car, successfully concealing evidence of the accident. The buyer declined to have the car inspected by his explaining that he would rely on the dealer's certificate of assured quality. At no time did the dealer disclose that the car had previously been in an accident, The parties then signed a contract of sale. After the car was delivered and paid for, the buyer learned that the car had been in a major accident.
+
+If the buyer sues the dealer to rescind the transaction, is the buyer likely to succeed?
+
+A. No, because the buyer had the opportunity to have the car inspected by his own mechanic and declined to do so.
+B. No, because the dealer did not affirmatively assert that the car had not been in an accident.
+C. Yes, because the contract was unconscionable.
+D. Yes, because the dealer's statement was intentionally misleading and the dealer concealed evidence of the accident.
+

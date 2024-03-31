@@ -1,0 +1,11 @@
+OA60: Sex and Sexual Orientation
+
+Two companies, a construction company and a landscaping firm, got into a contract dispute over the nature of landscaping services that had to be provided to the construction company. The landscaping firm was incorporated in New York and did all of its business in that state. The construction company was an LLC that had been filed in New York with its members being domiciled in Pennsylvania, Vermont, and Virginia. The landscaping firm filed a breach of contract claim in federal court in New York claiming diversity jurisdiction within a mountain dispute that was in excess of $100,000. The construction firm filed a motion to dismiss claiming that the landscaper plaintiff did not have diversity jurisdiction.
+
+Will the court likely grant the motion to dismiss?
+
+A. Yes, there is clearly no diversity in that the construction company LLC and the landscaper corporation were both registered and filed in New York, making them citizens of the same state.
+B. Yes, because diversity must be between natural citizens and business entities are not entitled to diversity, but must find some other reason for federal jurisdiction.
+C. No, the motion to dismiss is premature and must wait until all discovery is completed before it will be considered.
+D. No, the plaintiff is a citizen of New York and the three members of the LLC are each from different states, which gives complete diversity of citizenship.
+

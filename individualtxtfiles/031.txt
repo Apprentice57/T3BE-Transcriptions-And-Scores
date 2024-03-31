@@ -1,0 +1,11 @@
+OA84: #CNNBlackmail, John Oliver’s lawsuit, and more on Maajid Nawaz
+
+The buyer asked a manufacturer to make him 100,000 widgets for $1 million. The buyer intended to retail them by mail order sales. The widgets had to have the buyer's logo imprinted on them. Manufacturer ordered the raw material and made a new widget mold that contained the buyer's logo. The buyer wanted quick delivery of at least 10,000 widgets right away. So the manufacturer rushed the order and sent 10,000 conforming widgets two days later. The buyer paid for the widgets but rejected, so the 10,000 widgets, but rejected delivery on the remaining 90,000 widgets. The manufacturer filed suit and claimed damages for breach of contract. The defendant buyer filed a cross motion to dismiss the complaint on the basis that the statute of frauds was violated in that it was a contract for over $500 that was unenforceable under state law.
+
+Will the court likely grant the motion to dismiss?
+
+A. Yes, the statute of frauds must be enforced when it involves goods over $500.
+B. Yes, the manufacturer did not protect its interests by agreeing to an oral contract, and it must pay for its bad business practices.
+C. No, because there is an exception for goods that are specially made for a buyer.
+D. No, the law will enforce the benefit of the bargain rule.
+

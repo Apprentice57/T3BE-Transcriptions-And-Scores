@@ -1,0 +1,13 @@
+OA112: Who’s Afraid of the FCC?
+
+The owner of a state licensed massage parlor sued the state for arbitrarily canceling its license and prior business permits to conduct a massage parlor at a given location in the city. Due to allegations of illegal activities in other massage parlors in the city, the owner's personal license and the business permits were revoked. The only procedure provided was a letter from the city declaring a new policy on massage parlors that had to be rapidly instituted for the welfare of the community. She sued the city and federal court, claiming that her business had been taken without just compensation in violation of the Fifth Amendment's takings clause. She also claimed a lack of procedural due process under the Fourteenth Amendment. The court granted a motion to dismiss based on her not having a property interest that was affected, including in the license and permits.
+
+She appealed the decision. Will the Federal Court of Appeals affirm the lower court's dismissal of her case?
+
+A. Yes, the Federal Court of Appeals will affirm the lower court's dismissal, saying that she has no case, because there is no right to earn a living under the substantive due process clause.
+B. Yes, because the state interest in protecting the public from illegal activities required that state action that was taken.
+C. No, because once the parlor had opened with all the proper permits, it could not be deprived of its licenses for any reason until they were up for renewal.
+D. No, because she had a property right in her license and permits, which were taken without any procedural due process.
+
+
+

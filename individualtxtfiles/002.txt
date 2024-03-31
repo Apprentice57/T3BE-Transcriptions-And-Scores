@@ -1,0 +1,9 @@
+OA27: Abortion and Planned Parenthood v. Casey, Part 1
+
+An inexperienced bicycle rider took her new bike for a test run. I already love this question. At an intersection, she could not stop for a red light and went into the intersection where she slipped off the bike. While attempting to remount it, a car coming into the intersection with a green light ran her over, causing severe injuries. The car driver was distracted by his cell phone and received a careless driving ticket from the police. The woman filed a claim for damages, asserting that the car driver was negligent per se. She claimed that a finding of negligence per se prevented the driver from asserting comparative negligence under a state statute. Will the trial court likely grant the woman's motion to preclude the man's attempted comparative negligence defense?
+
+A. Yes, because the driver had the last clear chance to avoid the accident, which abrogates the comparative negligence law.
+B. Yes, because negligence per se is a final judgment of total negligence against the driver and it cannot be modified or rebutted.
+C. No, because the common law doctrine of negligence per se does not abrogate the defendant's right to apportion fault under the comparative negligence statute.
+D. No, because she entered the intersection knowing it was a red light, thereby putting herself voluntarily and knowingly in danger and she assumed the risk.
+

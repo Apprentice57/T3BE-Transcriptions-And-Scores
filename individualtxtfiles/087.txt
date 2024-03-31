@@ -1,0 +1,11 @@
+OA197: Undetectable, Untraceable, 3-D Printed Guns
+
+A state constitution provides that in every criminal trial "the accused shall have the right to confront all witnesses against him face to face." A defendant was convicted in state court of child abuse based on testimony from a six-year-old child. The child testified while she was seated behind one-way glass, which allowed the defendant to see the child but did not allow the child to see the defendant. The defendant appealed to the state’s highest court, claiming that the inability of the child to see the defendant while she testified violated both the United States Constitution and the state constitution. Without addressing the federal constitutional issue, the state’s highest court reversed the defendant's conviction and ordered a new trial. The court held that "the constitution of this state is clear, and it requires that while testifying in a criminal trial, witness must be able to see the defendant." The state petitioned the United States Supreme Court for a writ of certiorari
+
+On which ground should the United States Supreme Court DENY the state's petition?
+
+A. A state may not seek appellate review in the United States Supreme Court of the reversal of a criminal conviction by its highest court.
+B. The decision of the state’s highest court was based on an adequate and independent state ground.
+C. The Sixth Amendment to the United States Constitution does not require that a witness against a criminal defendant be able to see the defendant while the witness testifies.
+D. The decision of the state’s highest court requires a new trial, and therefore it is not a final judgment.
+

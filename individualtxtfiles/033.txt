@@ -1,0 +1,11 @@
+OA88: Noah’s Ark & How Private Is The Stuff You Do On Your Computer?
+
+A small town police officer pulled over a driver for speeding. He believed that the driver was acting irritable and fidgy but had no articulable reason to think anything was wrong. He searched the car anyway and found two cartons of freshly canned peaches which were owned by the driver's neighbor and recorded stolen off her porch 24 hours earlier. Authorities charged him with theft under the state criminal code. His motion to suppress the evidence because of an unlawful search was denied.
+
+On appeal, will the appellate court likely reverse the lower court decision denying the motion to suppress?
+
+A. Yes, because the search was unconstitutional due to the officer having no reasonable suspicion that would justify searching the car.
+B. Yes, because when a car is pulled over for speeding, the officer must always obtain a search warrant prior to making a search.
+C. No, the stop and search were within the normal bounds of propriety for a speeding stop.
+D. No, because the driver being fidgety is enough for probable cause for a full search of the vehicle.
+

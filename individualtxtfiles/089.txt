@@ -1,0 +1,9 @@
+A buyer entered into a written contract to purchase from a seller 1,000 sets of specially manufactured ball bearings of a nonstandard dimension for a price of $10 per set. The seller correctly calculated that it would cost $8 to manufacture each set, Delivery was scheduled for 60 days later. Fifty-five days later, after the seller had completed production of the 1,000 sets, the buyer abandoned the project that required the specially manufactured ball bearings and repudiated the contract with the seller. After notifying the buyer of his intention to resell, the seller sold the 1,000 sets of ball bearings to a salvage company for $2 per set. The seller then sued the buyer for damages.
+
+What damages should the court award to the seller?
+
+A. $2 per set, representing the difference between the cost of manufacture and the price the buyer agreed to pay.
+B. $6 per set, representing the difference between the cost of manufacture and the salvage price.
+C. $8 per set, representing the lost profits plus the unrecovered cost of manufacture.
+D. Nominal damages, because the seller failed to resell the goods by public auction.
+

@@ -1,0 +1,11 @@
+OA184: Families at the Border
+
+A state university adopted a new regulation prohibiting certain kinds of speech on campus. Students, staff, and faculty convicted by campus tribunals of violating the regulation were subject to penalties that included fines, suspensions, expulsions, and termination of employment. The regulation was widely unpopular, and there was a great deal of public anger directed toward the two tenured professors who had drafted and promoted it. The following year, the state legislature approved a severable provision in the appropriations bill for the university declaring that none of the university's funding could be used to pay the two professors, who were specifically named in the provision. In the past, the professor's salaries had always been paid from funds appropriated to the university by the legislature, and the university had no other funds that could be used to pay them.
+
+If the professors challenge the constitutionality of the appropriations provision, is the court likely to uphold the provision?
+
+A. No, because it amounts to the imposition by the legislature of a punishment without trial.
+B. No, because it is based on conduct the professors engaged in before it was enacted.
+C. Yes, because the Eleventh Amendment gives the state legislature plenary power to appropriate state funds in the manner that it deems most conducive to the welfare of its people.
+D. Yes, because the full faith and credit clause requires the court to enforce the provision strictly according to its terms.
+

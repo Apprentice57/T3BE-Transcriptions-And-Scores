@@ -1,0 +1,11 @@
+OA162: Tariffs and Trade
+
+A lumber supplier agreed to sell to a furniture manufacturer all the lumber that the manufacturer required over a two-year period. The sales contract provided that the payment was due 60 days after delivery, but that a 3% discount would be allowed if the manufacturer paid within 10 days of delivery. Now, during the first year of the contract, the manufacturer regularly paid within the 10-day period and received the 3% discount. But 15 days after the supplier had made its most recent lumbered delivery to the manufacturer, the supplier had received no payment from the manufacturer. At the time, The supplier became aware of rumors from a credible source that the manufacturer's financial condition was precarious. The supplier called the manufacturer demanding assurances regarding the manufacturer's financial status. The manufacturer immediately mailed to the supplier its latest audited financial statements, as well as a satisfactory credit report prepared by the manufacturer's banker. The rumors proved to be false. Nevertheless, the supplier refused to resume deliveries. The manufacturer sued the supplier for breach of contract.
+
+Will the manufacturer likely prevail? That's very interesting.
+
+A. No, because the contract was unenforceable since the manufacturer had not committed to purchase a definite quantity of lumber.
+B. No, because the supplier had reasonable grounds for insecurity and was therefore entitled to cancel the contract and refuse to make any future deliveries.
+C. Yes, because the credit report and auditory statements provided adequate assurance of due performance under the contract.
+D. Yes, because the supplier was not entitled to condition resumption of deliveries on the receipt of financial status.
+

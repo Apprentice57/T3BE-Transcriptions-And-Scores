@@ -1,0 +1,11 @@
+OA178: Trump and the NFL
+
+In a civil trial for professional malpractice, the plaintiff sought to show that the defendant, an engineer, had designed the plaintiff's flour mill with inadequate power. The plaintiff called an expert witness who based his testimony solely on his own professional experience but also asserted, when asked, that the book *Smith on Milling Systems* was a reliable treatise in the field and consistent with his views. On cross-examination, the defendant asked the witness whether he and Smith were ever wrong. The witness answered, "Nobody's perfect." The defendant asked no further questions. The defendant later called his own expert witness and asked, "Do you accept the Smith book as reliable?" The witness said, "It once was, but it is now badly out of date." The plaintiff requested that the jury be allowed to examine the book and judge for itself the book's reliability.
+
+Should the court allow the jury to examine the book?
+
+A. No, because the jury may consider only passages read to it by counsel or by a witness.
+B. No, because the plaintiff's expert did not rely on the treatise in his testimony but on his own experience.
+C. Yes, because an expert has testified that the treatise is reliable.
+D. Yes, because the jury is the judge of the weight and credibility to be accorded both written and oral evidence.
+

@@ -1,0 +1,12 @@
+OA28: Abortion and Planned Parenthood v. Casey, Part 2
+
+A man sued a manufacturer of video and home theater equipment after his home theater started a raging fire, destroying the equipment and part of his home. He sued the manufacturer in federal court. At trial, the defendants filed a motion to preclude the report and testimony of the plaintiff's expert witness under Federal Rules of Evidence, Rule 702. The defendants claim bias, lack of scientific support, failure to conduct testing, divergence of opinion among experts, and that the expert was trained for large commercial fires. The expert had investigated over 500 fires, wrote a book that was used in courses nationwide, and taught a course in forensic fire investigations at a university. Her report ruled out all other possible causes. The court did a gatekeeping review, as required by Rule 702, and ruled that the expert was highly qualified and that she used accepted scientific methodologies in arriving at her opinion. The defendants appealed the ruling.
+
+Is the appellate court likely to go against the trial court ruling under these facts?
+
+A, yes, because the charge of bias against an expert witness requires a "trial within a trial", and that was not done.
+B, yes. Because whenever the expert does not back up her conclusion with experimental testing, an expert's opinion will be insufficiently reliable to be allowed.
+C, no, the court did the required gatekeeping inquiry and found that the witness was not only qualified and competent, but also used accepted methodologies.
+D, no, the court has absolute discretion in deciding the competency of the expert for purposes of giving expert trial testimony and evidence.
+
+

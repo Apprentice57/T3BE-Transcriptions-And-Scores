@@ -1,0 +1,15 @@
+OA164: As American As Baseball, Hush Money, and… Segregated Schools?
+
+A toy manufacturer that has its headquarters and sole manufacturing plant in a particular state. It has developed a Martian toy that simulates the exploration of Mars by a remote-controlled vehicle. It accurately depicts the Martian landscape and the unmanned exploratory vehicle traversing it. The toy is of high quality, safe and durable, and has sold very well. Other toy manufacturers, all located outside of the state, have developed similar toys that are lower in price. These manufacturers have contracts to sell their Martian toys to outlets in the state. Although these toys are safe and durable, they depict the Martian landscape less realistically than the toys manufactured in the state. Nevertheless, because of the price difference, sales of these toys, that is the cheap out-of-state knockoffs, have severely cut into the sales of the Martian toys manufactured in the state.
+
+The state legislature has recently enacted a law "to protect the children of the state from faulty science and to protect in-state toy manufacturers from unfair competition". The law forbids the sale in the state of any toy that purports to represent extraterrestrial objects and does not satisfy specified scientific criteria. The Martian toy manufactured in the state satisfies all the criteria. None of the Martian toys of the competing manufacturers meet the requirement.
+
+Is that state law constitutional?
+
+A. No, because it abrogates the obligations of the contracts between the other toy manufacturers and the in-state outlets that have agreed to sell their Martian toys.
+B. No, because it imposes an undue burden on interstate commerce.
+C. Yes, because it deals with only a local matter, the sale of toys in stores located within the state.
+D. Yes, because the state's interest in protecting the state's children from faulty science justifies this burden on interstate commerce.
+
+
+

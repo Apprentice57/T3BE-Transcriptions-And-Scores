@@ -1,0 +1,13 @@
+OA221: Elections Have Consequences, Florida Edition
+
+State troopers lawfully stopped a car driver on a turnpike for exceeding the speed limit by four miles per hour. One trooper approached the car to warn the driver to drive within the speed limit. The other trooper remained in the patrol car and ran a computer check of the car's license number. The computer check indicated that there was an outstanding warrant for the driver's arrest for unpaid traffic tickets. The troopers then arrested the driver based on the warrant, and they proceeded to search the driver. During the search, they discovered a package of heroin in one of the driver's pockets. Later, it was learned that the driver had paid the outstanding traffic tickets 10 days earlier and that the warrant had been quashed, but the clerk of the court had filed to update the computer, which continued to list the warrant as outstanding.
+
+The driver was charged with unlawful possession of heroin. Her attorney has filed a motion to suppress the use of the heroin as evidence
+
+Should the motion be granted?
+
+A. No, because the troopers could reasonably rely on the computer report and the search was incident to arrest.
+B. No, because troopers may lawfully search a driver incident to a valid traffic stop.
+C. Yes, because there was no arrest for the traffic violation and no lawful arrest could be made on the basis of the warrant.
+D. Yes, because there was no probable cause or reasonable suspicion to believe that the driver possessed drugs,
+

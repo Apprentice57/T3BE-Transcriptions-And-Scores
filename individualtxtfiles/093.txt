@@ -1,0 +1,11 @@
+OA209: Kavanaugh's Confirmation
+
+A defendant was charged with manslaughter. At the preliminary hearing, the magistrate dismissed the charge on the ground that the evidence was insufficient. The prosecutor then brought the case before a grand jury. After hearing the evidence presented by the prosecutor, the grand jury refused to return an indictment. The prosecutor waited a few months until a new grand jury had been impaneled and brought the case before that grand jury, which returned an indictment charging the defendant with manslaughter. The defendant has moved to dismiss the indictment on double jeopardy grounds.
+
+Should the motion be granted?
+
+A. No, because jeopardy had not attached before either grand jury was impaneled.
+B. No, because there has been no conviction or acquittal.
+C. Yes, because any proceeding after the preliminary hearing would violate double jeopardy.
+D. Yes, because bringing the case before the second grand jury violated the double jeopardy clause.
+

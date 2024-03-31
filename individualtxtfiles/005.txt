@@ -1,0 +1,11 @@
+OA32: Phil Ivey’s Gambling Winnings (with guest Chris Kristofco)
+
+A creditor instituted a garnishment action against a woman who owed the creditor a back due debt. This was the first action taken, and the creditor did not have a judgment. It served the notice of garnishment on the garnishee, the woman's employer. The employer honored the notice by holding all of the woman's earnings in escrow, pending the creditor's lawsuit, and the entrance of a final judgment against the woman. The state where the defendant lived and worked had a provision for pre-judgment garnishment as long as the money was held and not distributed until the judgment was entered. The money would be paid to the woman if a judgment was not entered within the next 120 days. The woman sued the employer and the creditor, demanding the release of her earnings.
+
+Will the court order the garnishee to release the funds to the woman?
+
+A. No, because the state procedure for protecting the woman's money until a judgment is entered is a fair one that comports with procedural due process.
+B. No, because the state has an interest in protecting the rights of creditors to collect debts through the garnishment procedure.
+C. Yes, because the only party that has garnishment rights in the United States is the Internal Revenue Service.
+D. yes, because the interim freezing of wages without a chance to be heard violates procedural due process.
+

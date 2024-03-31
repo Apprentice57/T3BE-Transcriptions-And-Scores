@@ -1,0 +1,11 @@
+OA170: All Yodel, All the Time
+
+In a civil trial arising from a car accident at an intersection, the plaintiff testified on direct examination that he came to a full stop at the intersection. On cross-examination, the defendant's lawyer asked whether the plaintiff claimed to have been exercising due care at the time, which is the standard for negligence, and the plaintiff replied that he had been driving carefully. At a sidebar conference, the defendant's lawyer sought permission to ask the plaintiff about two accidents in the previous 12 months in which he had received traffic citations for failing to stop at stop signs. The plaintiff's lawyer has objected.
+
+Should the court allow defense counsel to ask the plaintiff about his two prior accidents?
+
+A. No, because improperly failing to stop on the other occasions does not bear on plaintiff's veracity and does not contradict his testimony in this case.
+B. No, because there is no indication that failing to stop on the other occasions led to convictions.
+C. Yes, because improperly failing to stop on the other occasions bears on plaintiff's credibility since he claims to have stopped in this case.
+D. Yes, because improperly failing to stop on the recent occasions tends to contradict the plaintiff's claim that he was driving carefully at the time that he collided with the defendant.
+

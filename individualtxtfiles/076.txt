@@ -1,0 +1,11 @@
+OA174: Is Michael Avenatti Fit To Practice Law In New York?
+
+A defendant was charged with burglary. At trial, a police officer testified that, after the defendant had been arrested and had agreed to answer questions, the officer had interrogated him with a stenographer present, but that the officer could not recall what the defendant had said. The prosecutor presented the officer with a photocopy of the stenographic transcript of the interrogation. After looking at it, the officer began to testify that he recalled that the defendant had admitted to being in the area of the burglary. The defendant has objected to the officer's testimony on the ground that it violates the "original document" rule (also known as the "best evidence" rule).
+
+Should the officer's testimony concerning the defendant's recorded confession be admitted?
+
+A. No, because a photocopy cannot be used without a showing that the original is unavailable.
+B. No, because the stenographer has not testified to the accuracy of the transcript.
+C. Yes, because a photocopy is a duplicate of the original.
+D. Yes, because the prosecutor is not attempting to prove the contents of the document.
+
