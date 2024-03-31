@@ -1,0 +1,13 @@
+T3BE Week 4! Firefighters' Rule and Interstate Commerce
+
+A federal statute extends federal minimum wage requirements to all dry cleaning stores. The statute contains express findings that, when combined, the wages received by dry cleaning workers have a substantial impact on the national economy and on the flow of goods and services in interstate commerce. These findings are supported by information presented to Congress during committee hearings on the legislation.
+
+A small dry cleaning store operates exclusively within a community in the center of a geographically large state. It has no customers from outside the state. It employs three workers, each of whom is paid less than the federal minimum wage.
+
+Must this dry cleaning store comply with the statute imposing the federal minimum wage requirements on all dry cleaning stores?
+
+A. No, because the store does no business in interstate commerce.
+B. No, because the wages of the store’s three workers do not have a substantial impact on interstate commerce.
+C. Yes, because the commerce clause vests Congress with plenary legislative authority over labor relations.
+D. Yes, because the wages paid by dry cleaning stores have a substantial impact on interstate commerce.
+

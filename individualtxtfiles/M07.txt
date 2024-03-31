@@ -1,0 +1,11 @@
+T3BE Week 3! Drugs and Hearsay
+
+A defendant was charged with aggravated assault. At trial, the victim testified that the defendant beat her savagely, but she was not asked about anything said during the incident. The prosecutor then called a witness to testify that when the beating stopped, the victim screamed: "I'm dying. Don't let [the defendant] get away with it!"
+
+Is the testimony of the witness concerning the victim's statement admissible?
+
+A. No, because it is hearsay not within any exception.
+B. No, because the victim was not asked about the statement.
+C. Yes, as a statement under belief of imminent death, even though the victim did not die.
+D. Yes, as an excited utterance.
+

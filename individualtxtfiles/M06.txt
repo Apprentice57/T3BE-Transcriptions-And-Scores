@@ -1,0 +1,11 @@
+T3BE Week 3! Drugs and Hearsay
+
+Police officers had probable cause to believe that drug dealing was routinely taking place in a particular room at a local motel. The motel manager authorized the officers to enter the room and provided them with a passkey. Without obtaining a warrant, the officers knocked on the room's door, announced their presence, and told the occupants that they would like to speak with them. The officers then heard yelling and repeated flushing of the toilet. They then used passkey and entered the rooms. Where they saw the occupants dumping drugs into the toilet. The occupants of the rooms were charged with drug dealing and have moved to suppress the drugs.
+
+Should the court grant the motion to suppress?
+
+A. No, because exigent circumstances justified the officers' entry.
+B. No, because the motel manager consented to the officers' entry.
+C. Yes, because exigent circumstances cannot excuse the lack of a warrant.
+D. Yes, because the officers cannot benefit from exigent circumstances that they created.
+
