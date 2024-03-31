@@ -1,0 +1,11 @@
+OA326: When the SCIF Hit the Fan
+
+An innkeeper, who had no previous experience in the motel or commercial laundry business and who knew nothing about the trade usages of either business, bought a motel and signed an agreement with a laundry company for the motel's laundry services. The agreement was for a term of one year and provided for "daily service at $500 a week." From their conversations during negotiation, the laundry company owner knew that the innkeeper expected laundry services seven days a week. When the laundry company refused to pick up the motel’s laundry on two successive Sundays and indicated that it would never do so, the innkeeper canceled the agreement. The laundry company sued the innkeeper for breach of contract, At trial, clear evidence was introduced to show that in the commercial laundry business "daily service" did not include service on Sundays.
+
+Is the laundry company likely to succeed in its action?
+
+A. No, because the laundry company knew the meaning the innkeeper attached to "daily service," and therefore the innkeeper’s meaning will control.
+B. No, because the parties attached materially different meanings to "daily service," and therefore no contract was formed.
+C. Yes, because the parol evidence rule will not permit the innkeeper to prove the meaning he attached to "daily service."
+D. Yes, because the trade usage will control the interpretation of "daily service."
+

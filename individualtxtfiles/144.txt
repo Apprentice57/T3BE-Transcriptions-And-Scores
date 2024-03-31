@@ -1,0 +1,16 @@
+OA314: The Supreme Court and Trump's Asylum Rules
+
+A buyer and a seller entered into a written contract for the sale of an identified parcel of land. The contract expressly provided that the buyer was to pay $150,000 cash for the land at the time of the closing but did not state the closing date. The parties had not agreed on the closing date because the buyer was not sure at the time the contract was signed how she would raise the cash.
+
+Fifteen days after the contract was signed, the seller learned that he could sell the land to a third party for $200,000.
+
+The seller asked the buyer if she would agree to rescind the contract. The buyer refused. The seller then told her that he would not complete the transaction, contending that the contract was unenforceable under the statute of frauds because an essential element (time for performance) was not agreed upon by the parties and was not expressly stated in the written agreement. The seller sold the land to the third party.
+
+The buyer brought an appropriate action against the seller for breach of contract.
+
+For which party is the court likely to find?
+
+A. The buyer, because of the doctrine of unjust enrichment.
+B. The buyer, because the court will infer that performance within a reasonable time was intended.
+C. The seller, because the contract is unenforceable under the statute of frauds.
+D. The seller, because time of performance is presumed to be of the essence.

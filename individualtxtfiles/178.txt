@@ -1,0 +1,16 @@
+OA386: The Opening Arguments Amicus Brief!
+
+A defendant was charged with attempted murder. At the preliminary hearing, the presiding judge heard the testimony of four
+prosecution witnesses and found that the prosecution had failed to establish probable cause that the defendant had committed any offense. Accordingly, he dismissed the charge.
+
+The prosecutor then called the same four witnesses before a grand jury. The grand jury indicted the same defendant for attempted murder.
+
+The defendant has moved to quash the indictment on the ground of double jeopardy.
+
+How should the court proceed?
+
+A. Grant the motion, because the dismissal of the first charge on the merits, whether corrector incorrect, bars any further prosecution.
+B. Grant the motion, unless the prosecution has evidence that was not presented in the first case.
+C. Deny the motion, because the defendant has not yet been in jeopardy of conviction on the attempted murder charge.
+D. Deny the motion, because the protection of the double jeopardy clause does not come into play until there has been a conviction or an acquittal further prosecution.
+

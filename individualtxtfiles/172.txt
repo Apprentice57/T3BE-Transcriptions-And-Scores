@@ -1,0 +1,13 @@
+OA374: The Light at the End of the Tunnel
+
+A plaintiff filed a tort action in state court but then failed to prosecute the action. The defendant moved to dismiss the action, and the court granted the motion in an order that stated: "The defendant's motion to dismiss is granted, and this action is dismissed with prejudice." The court accordingly entered judgment for the defendant
+
+The plaintiff then filed the same claim against the defendant in federal court, invoking diversity jurisdiction. The defendant has asserted the defense of res judicata (claim preclusion) in its answer.
+
+Should the federal court give preclusive effect to the state-court judgment?
+
+A. No, because the judgment was entered by a state court, not a federal court.
+B. No, because the state court did not rule on the merits in its dismissal.
+C. Yes, because a dismissal with prejudice operates as a judgment on the merits.
+D. Yes, because a judgment for failure to prosecute operates as a judgment on the merits under the Federal Rules of Civil Procedure.
+

@@ -1,0 +1,11 @@
+OA289: #OpposeJustinWalker
+
+The defendant, a young doctor, was charged with falsely claiming deductions on her federal income tax return. At trial, a witness testified for the defendant that she has a reputation in the community for complete honesty. After a sidebar conference at which the prosecutor gave the judge a record showing that the defendant's medical school had disciplined her for altering her transcript, the prosecutor proposed to ask the witness on cross-examination: "Have you ever heard that the defendant falsified her medical school transcript?"
+
+Is the prosecutor's question proper?
+
+A. No, because it calls for hearsay not within any exception.
+B. No, because its minimal relevance on the issue of income tax fraud is substantially outweighed by the danger of unfair prejudice.
+C. Yes, because an affirmative answer will be probative of the defendant's character trait for dishonesty and, therefore, her guilt.
+D. Yes, because an affirmative answer will impeach the witness's credibility.
+

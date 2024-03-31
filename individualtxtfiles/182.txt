@@ -1,0 +1,15 @@
+OA394: The Amicus Show!
+
+A landowner borrowed $100,000 from a lender and executed a valid mortgage on a commercial tract of land to secure the debt. The lender promptly recorded the mortgage.
+
+A year later, the landowner conveyed the same tract to a developer by a deed that expressly stated that the conveyance was subject to the mortgage to the lender and that the grantee expressly assumed and agreed to pay the mortgage obligation as part of the consideration for the purchase. The mortgage was properly described in the deed, and the deed was properly executed by the landowner; however, because there was no provision or place in the deed for the developer to sign, he did not do so. The developer promptly recorded the deed.
+
+The developer made the monthly mortgage payments of principal and interest for six payments but then stopped payments and defaulted on the mortgage obligation. The lender properly instituted foreclosure procedures in accordance with the governing law: After the foreclosure sale, there was a $10,000 deficiency due to the lender. Both the landowner and the developer had sufficient assets to pay the deficiency. There is no applicable statute in the jurisdiction other than the statute relating to foreclosure proceedings.
+
+At the appropriate stage of the foreclosure action, which party will the court decide is responsible for payment of the deficiency?
+
+A. The developer, because he accepted delivery of the deed from the landowner and in so doing accepted the terms and conditions of the deed.
+B. The developer, because he is estopped by his having made six monthly payments to the lender.
+C. The landowner, because the developer was not a signatory to the deed.
+D. The landowner, because he was the maker of the note and the mortgage, and at most the developer is liable only as a guarantor of the landowner’s obligation.
+

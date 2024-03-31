@@ -1,0 +1,13 @@
+OA253: Religious Freedom and Domineque Ray
+
+A businessman owned a hotel, subject to a mortgage securing a debt he owed to a bank. The businessman later acquired a nearby parking garage, financing a part of the purchase price with a loan from a financing company, secured by a mortgage on the parking garage. Two years thereafter, the businessman defaulted on the loan owed to the bank, which caused the full amount of that loan to become immediately due and payable. The bank decided not to foreclose the mortgage on the hotel at that time, but instead properly sued for the full amount of the defaulted loan. The bank obtained and properly filed a judgment for that amount. A statute of the jurisdiction provides: "Any judgment properly filed shall, for 10 years from filing, be a lien on the real property then owned or subsequently acquired by any person against whom the judgment is rendered." There is no other applicable statute, except the statute providing for judicial foreclosure of mortgages, which places no restrictions on deficiency judgments. Shortly thereafter, the bank brought an appropriate action for judicial foreclosure of mortgage on the hotel and of its judgment lien on the parking garage.
+
+The financing company was joined as a party defendant, and appropriately sued for foreclosure of its mortgage on the parking garage, which was also in default. All procedures were properly followed, and the confirmed foreclosure sales resulted in the following: The net proceeds of the sale of the hotel to a third party were $200,000 less than the bank's mortgage balance. The net proceeds of the sale of the parking garage to a fourth party were $200,000 more than the financing company’s mortgage balance.
+
+How should the $200,000 surplus arising from the sale of the parking garage be distributed?
+
+A. It should be paid to the bank.
+B. It should be paid to the businessman.
+C. It should be paid to the financing company.
+D. It should be split equally between the bank and the financing company.
+

@@ -1,0 +1,14 @@
+OA302: #DemocracyRIP
+
+A federal statute requires the National Bureau of Standards to establish minimum quality standards for all beer sold in the
+United States. The statute also provides that public hearings must precede adoption of the standards, and that once they are
+adopted, the standards will be subject to judicial review. While the proposed standards have not yet been announced,
+several Bureau officials have publicly expressed opinions indicating a belief that pasteurized beer is safer than unpasteurized beer. However, these officials have not stated whether they intend to include a pasteurization requirement in the standards. A brewery that produces unpasteurized beer is concerned that, after the appropriate proceedings, the Bureau may adopt quality standards that will prohibit the sale of unpasteurized beer. The brewery has sued in federal district court to enjoin the Bureau from adopting standards that would prohibit the sale of unpasteurized beer.
+
+How should the district court proceed with the suit?
+
+A. Determine whether the Bureau could reasonably believe that pasteurization is the safest process by which to brew beer and, if so, refuse to issue the injunction against the Bureau.
+B. Determine whether the process used by the brewery is as safe as pasteurization and, if so, issue the injunction against the Bureau.
+C. Refuse to adjudicate the merits of the suit at this time and stay the action until the Bureau has actually issued beer-quality standards.
+D. Refuse to adjudicate the merits of the suit and dismiss it, because it docs not involve a justiciable case or controversy.
+

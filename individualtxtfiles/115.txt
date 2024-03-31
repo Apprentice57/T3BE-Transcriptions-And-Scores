@@ -1,0 +1,11 @@
+OA255: Wall of Emergency
+
+In a personal injury case, the plaintiff sued a retail store for injuries she sustained form a fall in the store. The plaintiff alleged that the store had negligently allowed its entryway to become slippery from snow tracked in from the sidewalk. Before the lawsuit was filed, when the plaintiff first threatened to sue, the store's manager said, "I know that there was slush on the marble entryway, but I think your four-inch-high heels were the real cause of your fall. So let's agree that we'll pay your medical bills, and you release us from any claims you might have." The plaintiff refused the offer. At trial, the plaintiff seeks to testify to the manager's statement that "there was slush on that marble entryway."
+
+Is the statement about the slush in the entryway admissible?
+
+A. No, because it is a statement made in the course of compromise negotiations.
+B. No, because the manager denied that the slippery condition was the cause of the plaintiff's fall.
+C. Yes, as a statement by an agent about a matter within the scope of his authority.
+D. Yes, because the rule excluding offers of compromise does not protect statements of fact made during compromise negotiations.
+

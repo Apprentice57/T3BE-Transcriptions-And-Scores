@@ -1,0 +1,11 @@
+OA241: Is This The C-Hook That Could Send PG&E To Prison??
+
+A man bought an antique car from a car dealer in State A. Under State A law, a person who buys from such a dealer acquires good title, even if the property was stolen from a previous owner. The man showed the car at an antique car show in State B.A woman recognized the car as having been stolen from her. Under State B law, a person whose property is stolen may reclaim it, even if the current possessor is an innocent purchaser. The woman sued the man in a State B court to reclaim the car, In his defense, the man claimed that he had good title under the law of State A. Nevertheless, the State B court applied State B law, and the woman prevailed. The man did not appeal. The sheriff had the car returned to State B and gave the woman possession of the car. Several months later, the woman moved to State A, bringing the car with her. The man brought a new suit against the woman in a State A court, claiming that the State B court in the prior suit should have applied the State A law, which protects innocent purchasers. The woman appeared and moved to dismiss the suit.
+
+What should the State A court do?
+
+A. Apply the federal law of sale of goods, because the car has moved in interstate commerce.
+B. Apply State A law, because the car is currently located in State A.
+C. Dismiss the suit, because the State A court must give full faith and credit to the State B judgment.
+D. Remove the case to federal court, because the car has moved in interstate commerce, and therefore the case raises a federal question.
+

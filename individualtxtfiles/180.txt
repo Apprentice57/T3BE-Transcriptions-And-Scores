@@ -1,0 +1,11 @@
+OA390: Trump's War on Twitter (A Deep Dive on Section 230)
+
+A fire that started in the defendant's warehouse spread to the plaintiff's adjacent warehouse. The defendant did not intentionally start the fire, and the plaintiff can produce no evidence as to how the fire started. However, the defendant had failed to install a sprinkler system, which was required by a criminal statute. The plaintiff can produce evidence that had the sprinkler system been installed, it could have extinguished the fire before it spread.
+
+In an action by the plaintiff against the defendant to recover for the fire damage, is it possible for the plaintiff to prevail?
+
+A. No, because the statute provides only for criminal penalties.
+B. No, because there is no evidence that the defendant negligently caused the fire to start.
+C. Yes, because a landowner is strictly liable for harm to others caused by the spread of fire from his premises under the doctrine of Rylands v. Fletcher.
+D. Yes, because the plaintiff was harmed as a result of the defendant's violation of a statute that was meant to protect against this type of occurrence.
+

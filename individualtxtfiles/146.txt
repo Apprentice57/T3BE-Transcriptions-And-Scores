@@ -1,0 +1,11 @@
+OA318: Quid Pro Quo Burger
+
+A seller and a buyer entered into a contract obligating the seller to convey title to a parcel of land to the buyer in exchange for $100,000. The agreement provided that the buyer's obligation to purchase the parcel was expressly conditioned upon the buyer's obtaining a loan at an interest rate no higher than 10%. The buyer was unable to do so but did obtain a loan at an interest rate of 10.5% and timely tendered the purchase price. Because the value of the land had increased since the time of contracting, the seller refused to perform. The buyer sued the seller.
+
+Is the buyer likely to prevail?
+
+A. No, because an express condition will be excused only to avoid forfeiture.
+B. No, because the contract called for a loan at an interest rate not to exceed 10% and it could not be modified without the consent of the seller.
+C. Yes, because the buyer detrimentally changed position in reliance on the seller's promise to convey.
+D. Yes, because the buyer's obtaining a loan at an interest rate no higher than 10% was not a condition to the seller's duty to perform.
+

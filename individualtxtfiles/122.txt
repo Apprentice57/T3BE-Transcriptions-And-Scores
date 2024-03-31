@@ -1,0 +1,11 @@
+OA269: JULIAN ASSANGE ARRESTED
+
+In a civil action for misrepresentation in the sale of real estate, the parties contested whether the defendant was licensed by the State Board of Realtors, a public agency established by statue to license real estate brokers. The defendant testified that she was licensed. On rebuttal, the plaintiff has offered a certification, bearing the seal of the secretary of the State Board of Realtors. The certification states that the secretary conducted a thorough search of the agency's records and all relevant databases, and that this search uncovered no record of license ever having been issued to the defendant. The certification is signed by the secretary.
+
+Is the certification that there is no record of a license having been issued to the defendant admissible?
+
+A. No, because it is hearsay not within any exception.
+B. No, because the writing was not property authenticated.
+C. Yes, for the limited purpose of impeaching the defendant.
+D. Yes, to prove the nonexistence of a public record.
+

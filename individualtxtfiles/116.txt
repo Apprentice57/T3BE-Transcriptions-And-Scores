@@ -1,0 +1,11 @@
+OA257.5 Michael Cohen Testifies, Part 2
+
+In a civil action, a plaintiff sued a decedent's estate to recover damages for injuries she suffered in a collision between her car and one driven by the defendant. At trial, the plaintiff introduced undisputed evidence that the defendant's car had swerved across the centerline of the highway into oncoming traffic, where it had collided with the plaintiff's car. The defendant's estate introduced undisputed evidence that, before he swerved across the centerline, the defendant had suffered fatal heart attack, which he had no reason to foresee, and that, just prior to the heart attack, the defendant had been driving at a reasonable speed and in a reasonable manner. A statute makes it a traffic offense to cross the median of a highway.
+
+In this case, which party is likely to prevail?
+
+A. The defendant's estate, because its rebuttal evidence is undisputed,
+B. The defendant's estate, because the plaintiff has not established a prima facie case of liability.
+C. The plaintiff, because the accident was of a type that does not ordinarily happen in the absence of negligence on the actor's part.
+D. The plaintiff, because the decedent crossed the median in violation of the statute,
+

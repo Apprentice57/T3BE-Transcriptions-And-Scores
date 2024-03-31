@@ -1,0 +1,11 @@
+OA235: Corporations Are People, My Friend... Criminal People
+
+A car dealer owed a bank $10,000, due on June 1. The dealer subsequently sold a car to a buyer at a price of $10,000, payable at $1,000 per month beginning on June 1. The dealer then telephoned the bank to ask whether the bank would accept payments of $1,000 per month for 10 months beginning June 1, without interest, in payment of the dealer's debt to the bank. The bank agreed to that arrangement, and the dealer then asked the buyer to make his car payments directly to the bank. When the buyer tendered the first payment to the bank, the bank refused the payment, asserting that it would accept payment only from the dealer. On June 2, the bank demanded that the dealer pay the debt in full immediately. The dealer refused to pay, and the bank sued the dealer to recover the $10,000.
+
+In this suit, which of the following arguments best supports the bank's claim for immediate payment?
+
+A. The agreement to extend the time for payment was not in writing.
+B. The dealer could not delegate its duty to pay to the buyer.
+C. The dealer gave no consideration for the agreement to extend the time of payment.
+D. The dealer's conduct was an attempted novation that the bank could reject.
+

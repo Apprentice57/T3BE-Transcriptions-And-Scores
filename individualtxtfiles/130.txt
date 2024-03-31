@@ -1,0 +1,11 @@
+OA287: Down the Hatch (Act)?
+
+The childhood home of a former U.S. president is part of a national park located in a city. The National Park Service entered into a contract with an independent antique collector to acquire items owned by residents of the city during the former residents' lifetime. According to the contract, the collector purchases items and then sells them to the Park Service at a price equal to the collector's cost plus a 10% commission. Purchases by antique collectors are ordinarily subject to the sales tax of the state in which the city is located. The collector has filed suit in state court to enjoin collection of the tax on these purchases for the Park Service, claiming that the sales tax is unconstitutional as applied to them.
+
+Should the state court issue the injunction?
+
+A. No, because as the purchaser of the antiques, the collector, rather than the federal government, is liable for the tax.
+B. No, because the suit is within the exclusive jurisdiction of the federal courts.
+C. Yes, because the federal government is contractually obligated to pay the amount of the sales tax when the government covers the collector's cost of the antiques.
+D. Yes, because under the supremacy clause, the federal program to acquire the antiques preempts the state sales tax on the purchase of these items.
+

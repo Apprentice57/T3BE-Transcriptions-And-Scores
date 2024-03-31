@@ -1,0 +1,13 @@
+OA402: Good News from SCOTUS!
+
+A shop owner domiciled in State A sued a distributor in a federal district court in State A for breach of contract. The shop owner sought $100,000 in damages for allegedly defective goods that the distributor had provided under the contract. The distributor is incorporated in State B, with its principal place of business in State C. The distributor brought in as a third-party defendant the wholesaler that had provided the goods to the distributor, alleging that the wholesaler had a duty to indemnify the distributor for any damages recovered by the shop owner. The wholesaler is incorporated in State B, with its principal place of business in State A.
+
+The wholesaler has asserted a $60,000 counterclaim against the distributor for payment for the goods at issue, and the distributor has moved to dismiss the counterclaim for lack of subject-matter jurisdiction.
+
+Should the motion to dismiss be granted?
+
+A No, because the wholesaler’s and the distributor's principal places of business are diverse.
+B. No, because there is supplemental jurisdiction over the wholesaler’s counterclaim.
+C. Yes, because there is no diversity of citizenship between the distributor and the wholesaler.
+D. Yes, because there is no diversity of citizenship between the shop owner and the wholesaler.
+

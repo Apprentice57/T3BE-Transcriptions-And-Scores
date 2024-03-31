@@ -1,0 +1,11 @@
+OA388: Reinstating the Rule of Law
+
+A plaintiff sued his insurance company for the proceeds of a casualty insurance policy covering his 60-foot yacht, claiming that the yacht was destroyed by an accidental fire. The company has denied liability, claiming that the plaintiff hired his friend to set the fire. In the hospital the day after the fire, the friend, who had been badly burned in the fire, said to his wife, in the presence of an attending nurse, "I was paid to set the fire." Two weeks later, the friend died of an infection resulting from the burns, At trial, the insurance company calls the wife to testify to the friend’s statement.
+
+Is the wife’s testimony admissible over the plaintiff's objection?
+
+A. No, because the marital privilege survives the communicating spouse's death.
+B. No, because the statement was made after the conspiracy ended.
+C. Yes, because it is a statement against interest,
+D. Yes, because it is a statement by a coconspirator.
+

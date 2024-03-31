@@ -1,0 +1,11 @@
+OA247: Status of the Trans Ban
+
+A bottling company sent a purchase order to a wholesaler that stated, "Ship 100,000 empty plastic bottles at the posted price." Two days after receipt of this purchase order, the wholesaler shipped the bottles and the bottling company accepted delivery of them, A week after the bottles were delivered, the bottling company received the wholesaler’s acknowledgment form, which included a provision disclaiming consequential damages. After having used the wholesaler’s bottles in its bottling ‘operations for two months, the bottling company discovered a defect in the bottles that caused liquids to leak from them, The bottling company recalled 10,000 of the bottles that had been filled, incurring lost profits of $40,000,
+
+Assuming that all appropriate defenses are timely raised, will the bottling company likely succeed in recovering $40,000 in consequential damages from the wholesaler?
+
+A. No, because buyers are generally not entitled to recover consequential damages.
+B. No, because the bottling company’s acceptance of the goods also constituted an acceptance of the terms included in the wholesaler's acknowledgment.
+C. Yes, because the disclaimer of consequential damages is unconscionable.
+D. Yes, because the wholesaler’s acknowledgment did not alter the terms of an existing contract between the parties.
+

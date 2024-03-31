@@ -1,0 +1,11 @@
+OA353: Duplicity and Impeachment
+
+Several defendants, senior executives of a corporation, were charged with securities fraud, The government called as a witness another executive of the corporation, who had not been charged and who had been given immunity from prosecution, to authenticate handwritten notes that she had made after meetings of the corporation's management team at which the alleged fraud was discussed. The witness testified that she had prepared the notes on her own initiative to help her remember what had happened at the meetings. After this testimony, the government offered the notes into evidence to establish what had happened at the meetings.
+
+Should the witness's notes be admitted?
+
+A. No, because the notes are hearsay not within any exception.
+B. No, because the witness's immunity agreement with the government makes her notes untrustworthy and thus substantially more prejudicial than probative.
+C. Yes, because they are business records.
+D. Yes, because they are past recollections recorded.
+

@@ -1,0 +1,9 @@
+OA392: In the Aftermath of George Floyd
+
+A defendant was charged with the crime of defrauding the federal agency where he worked as an accountant. At trial, the court allowed the defendant to call his supervisor at the large corporation where he had previously worked, who testified about the defendant's good reputation in the community for honesty. Over objection, the defendant then sought to elicit testimony from his former supervisor that on several occasions the corporation had, without incident, entrusted him with large sums of money. Should the testimony be admitted?
+
+A. No, because the testimony is extrinsic evidence on a collateral matter.
+B. No, because good character cannot be proved by specific instances of conduct unless character is an essential element of the charge or defense.
+C. Yes, because it is evidence of a pertinent character trait offered by an accused.
+D. Yes, because it is relevant to whether the defendant was likely to have taken money as charged in this case.
+

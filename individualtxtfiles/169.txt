@@ -1,0 +1,13 @@
+OA366: Your Guide to the Coronavirus!
+
+A store owner whose jewelry store had recently been robbed was shown by a police detective a photograph of the defendant, who previously had committed other similar crimes. The store owner examined the photograph and then asked the detective whether the police believed that the man pictured was the robber. After the detective said, "We're pretty sure," the store owner stated that the man in the photograph was the one who had robbed her.
+
+The defendant was indicted for the robbery. His counsel moved to suppress any trial testimony by the store owner identifying the defendant as the robber.
+
+Should the court grant the motion and suppress the store owner's trial testimony identifying the defendant as the robber?
+
+A. No, because suppression of in-court testimony is not a proper remedy, even though the out-of-court identification was improper.
+B. No, because the out-of-court identification was not improper.
+C. Yes, because the improper out-of-court identification has necessarily tainted any in-court identification
+D. Yes, unless the prosecution demonstrates that the in-court identification is reliable.
+

@@ -1,0 +1,13 @@
+OA358: Can Trump Block New Yorkers From Global Entry? (No.)
+
+Before the close of evidence in a federal negligence trial, the defendant submitted a proposed jury instruction on contributory negligence. Before instructing the jury, the judge informed the parties of the instructions she would give, which did not include the defendant's proposed contributory negligence instruction but did include the court's own instruction on contributory negligence. Neither party objected, ether then or after the judge had given the instructions. The jury returned a verdict for the plaintiff, and the judge entered judgment on the verdict.
+
+The defendant would like to appeal the verdict on the ground that the judge should have instructed the jury using the defendant's proposed instruction on contributory negligence.
+
+Has the defendant preserved the issue for appeal?
+
+A No, because the defendant failed to object after the judge gave the instructions to the jury.
+B. No, because the defendant failed to object after the judge informed the parties of the instructions she would give.
+C. Yes, because the defendant submitted a proposed instruction on contributory negligence.
+D. Yes, because the judge's failure to give the defendant's contributory negligence instruction amounted to a ruling on the instruction.
+

@@ -1,0 +1,13 @@
+OA233: [REDACTED] & Wisconsin
+
+A woman who is a computer expert decided to dedicate herself to exposing persons who trafficked in child pornography. She posted a number of sexually oriented photographs on her website. The file for each photograph contained an embedded Trojan horse program (a program that would allow the woman to enter the computer of anyone who downloaded the photograph). A man downloaded one of those photographs onto his personal computer. Using the embedded program, the woman entered the man's computer and found a file containing a pornographic photograph of a child. She copied the file and turned it over to a federal law enforcement agency. A federal agent told her that a successful prosecution would require more than one photograph and offered her a monetary reward for additional photographs leading to the man’s conviction. The woman entered the man’s computer again, and this time she found hundreds of child pornography photographs, which she turned over to the federal agency.
+
+The man was charged with multiple counts of violating federal child pornography statutes. He has moved to suppress the photographs that the woman discovered on his computer. The motion is based on both the Fourth Amendment and a federal statute forbidding interception of electronic communication without permission. The parties have stipulated that the woman's conduct in downloading photographs from the man’s computer violated the interception statute.
+
+How should the court rule on the defendant’s motion to suppress?
+
+A. Deny the motion as to all photographs.
+B. Grant the motion as to all photographs, because the woman acted without probable cause.
+C. Grant the motion as to all photographs, because the woman violated the federal interception statute.
+D. Grant the motion only as to the second set of photographs.
+

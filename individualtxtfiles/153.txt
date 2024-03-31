@@ -1,0 +1,11 @@
+OA332: Your Two New Best Friends, Bill Taylor and George Kent
+
+A plaintiff sued her employer, alleging that poor working conditions had caused her to develop a stomach ulcer. At trial, the plaintiff's medical expert testified to the cause of the plaintiff's ulcer and stated that his opinion was based in part on information in a letter the plaintiffs personal doctor had written to the plaintiffs employer, explaining why the plaintiff had missed work.
+
+When offered to prove the cause of the plaintiff's condition, is the letter from the plaintiff's doctor admissible?
+
+A. No, because it is hearsay not within any exception.
+B. No, because the plaintiff's doctor is not shown to be unavailable.
+C. Yes, because it was relied upon by the plaintiff's medical expert.
+D. Yes, under the business records exception to the hearsay rule.
+

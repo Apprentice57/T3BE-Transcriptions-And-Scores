@@ -1,0 +1,11 @@
+OA237: Lowering the... Barr (Memo)
+
+A defendant was charged in federal court with selling a controlled substance (heroin) in interstate commerce. At trial, the prosecutor introduced evidence that the defendant had obtained the substance from a supplier in Kansas City and had delivered it in Chicago. The defendant denied that the substance in question was heroin, but he introduced no contrary evidence on the issue of transportation.
+
+Which of the following instructions regarding judicial notice may the judge legitimately give the jury?
+
+A. "If you find that the defendant obtained the substance in Kansas City and delivered it to Chicago, I instruct you to find that the substance was sold in an interstate transaction."
+B. "If you find that the defendant obtained the substance in Kansas City and delivered it to Chicago, then the burden of persuasion is on the defendant to establish that the transaction was not interstate."
+C. "If you find that the defendant obtained the substance in Kansas City and delivered it to Chicago, then you may, but you are not required to, find that the transaction was interstate in nature."
+D. "I instruct you that there is a presumption that the substance was sold in an interstate transaction, but the burden of persuasion on that issue is still on the government."
+
