@@ -1,0 +1,11 @@
+OA582: Alex Jones Is In Big Trouble
+
+A buyer mailed a signed order to a seller that stated, "Please send me 1,000 pens at whatever price you are currently selling them for." The seller received the order on June 1. Later that afternoon, the seller mailed the buyer a signed letter stating that he accepted the buyer's offer at the current price of $2.00 per pen. The seller properly addressed, stamped, and mailed the letter to the buyer. On June 2, the buyer called the seller and left a voicemail message saying that he revoked his offer to purchase pens. On June 3, the seller listened to the buyer's voicemail message. On June 4, the buyer received the seller's letter.
+
+Is there a contract between the buyer and the seller on June 4?
+
+A. No, because the buyer effectively revoked the offer prior to receiving the seller's written acceptance
+B. No, because the offer was too indefinite since it did not contain a price term.
+C. Yes, because the offer was irrevocable for a reasonable time.
+D. Yes, because the seller accepted the buyer's offer before the buyer attempted to revoke it.
+

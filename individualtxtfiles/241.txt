@@ -1,0 +1,11 @@
+OA518: Terpsichore Tries Her Hand at Frivolous Lawsuits
+
+A motorcyclist was involved in a collision with a truck. The motorcyclist sued the truck driver in state court for damage to the motorcycle. The jury returned a verdict for the truck driver, and the court entered judgment. The motorcyclist then sued the company that employed the driver and owned the truck in federal court for personal-injury damages, and the company moved to dismiss based on the state-court judgment.
+
+If the court grants the company’s motion, what is the likely explanation?
+
+A. Claim preclusion (res judicata) bars the motorcyclist’s action against the company.
+B. Issue preclusion (collateral estoppel) establishes the company’s lack of negligence.
+C. The motorcyclist violated the doctrine of election of remedies.
+D. The state-court judgment is the law of the case.
+

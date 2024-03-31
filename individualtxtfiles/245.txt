@@ -1,0 +1,11 @@
+OA526: Updates from Five Cases on the OA Docket
+
+A plaintiff filed an action against a defendant in federal court, seeking damages for negligence after the defendant lost control of his car on a snowy day and collided with the plaintiffs car. The defendant has an insurance policy that will pay for the defense of the defendant's claim as well as most or all of the damages that the defendant is deemed liable for.
+
+Is the defendant's insurance policy subject to discovery by the plaintiff?
+
+A. Yes, the defendant must provide the insurance policy to the plaintiff if the plaintiff makes a proper request for production of documents that includes the insurance policy.
+B. Yes, the defendant must provide the insurance policy to the plaintiff even if the plaintiff does not request it.
+C. No, the defendant need not disclose the policy because it is not relevant to the plaintiff's claim or the defendant's defense.
+D. No, because insurance policies are precluded from being admitted into evidence if agency, control, or impeachment is not at issue as admission of an insurance policy into evidence is considered to violate public policy.
+

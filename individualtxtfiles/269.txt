@@ -1,0 +1,11 @@
+OA580: Google Caught Pulling Privilege Shenanigans
+
+An attorney represented a client in a breach of contract action against the client's former business partner. During the presentation, the client presented the attorney with incontrovertible proof that the former partner had committed perjury in unrelated litigation several years earlier. The prior litigation had been resolved in the former partner's favor. Neither the attorney nor the client had been involved in any way in the prior litigation. However, at the time of the prior litigation, the client and the former partner had had a close personal and business relationship. The attorney believed that it would be detrimental to the client's best interests to reveal the former partner's perjury because the court might draw negative inferences about the client from the former partner's behavior. As a result, the attorney did not disclose the former partner's prior perjury to the court.
+
+Was the attorney's conduct proper?
+
+A. Yes, because the attorney believed that the disclosure would be detrimental to the client's best interests.
+B. Yes, because neither the client nor the attorney had been involved in any way in the prior litigation.
+C. No, because the attorney possessed knowledge that the former partner had perpetrated a fraud on a tribunal.
+D. No, because the information regarding the prior perjury was not privileged.
+

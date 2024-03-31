@@ -1,0 +1,13 @@
+OA504: Cosby Released in Nonsense Ruling
+
+An entrepreneur from State A decided to sell hot sauce to the public, labeling it "Best Hot Sauce."
+
+A company incorporated in State B and headquartered in State C sued the entrepreneur in federal court in State C. The complaint sought $50,000 in damages and alleged that the entrepreneur's use of the name "Best Hot Sauce" infringed the company’s federal trademark. The entrepreneur filed an answer denying the allegations, and the parties began discovery. Six months later, the entrepreneur moved to dismiss for lack of subject-matter jurisdiction.
+
+Should the court grant the entrepreneur's motion?
+
+A. No, because the company’s claim arises under federal law.
+B. No, because the entrepreneur waived the right to challenge subject-matter jurisdiction by not raising the issue initially by motion or in the answer.
+C. Yes, because although the claim arises under federal law, the amount in controversy is not satisfied.
+D. Yes, because although there is diversity, the amount in controversy is not satisfied.
+

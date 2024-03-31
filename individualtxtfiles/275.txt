@@ -1,0 +1,16 @@
+OA593: Roe Was Never About a 'Right to Abortion'
+
+A defendant is charged with homicide after the defendant was involved in a car accident that killed a pedestrian. At the defendant's trial, the prosecution called to the stand a shop-owner who testified that immediately after the accident, a witness ran into his store and said, "Whoa! Can I use your phone? That blue car just ran a red light and hit someone!" The witness is not testifying at trial and is not present in court. With the sole objective of discrediting this testimony, the defense sought to introduce an audio recording from when a police officer interviewed the witness at the station the next day. The recording consists of the following exchange:
+
+Officer: "Did you see a blue car run a red light?"
+Witness: "No. The blue car did not run a red light. The light was green when it drove through the intersection."
+
+The prosecution objected to the introduction of the recording. Assume that the recording and the voices are properly authenticated and satisfy the best evidence rule.
+
+Should the court sustain the objection?
+
+A. Yes, because the recording constitutes inadmissible hearsay.
+B. Yes, because extrinsic evidence is not admissible in this situation
+C. No, because the recording constitutes admissible hearsay under the recorded recollection exception.
+D. No, because extrinsic evidence is admissible in this situation.
+

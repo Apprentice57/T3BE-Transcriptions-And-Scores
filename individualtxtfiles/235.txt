@@ -1,0 +1,13 @@
+OA506: Trump's Desperate, Harebrained Lawsuit Is Garbage and Deserves Sanctions
+
+An investor from State A filed an action against his State B stockbroker in federal court in State A. The summons and complaint were served at the stockbroker’s office in State B, where the process server handed the documents to the stockbroker’s administrative assistant.
+
+The stockbroker has answered the complaint, asserting the defense of improper service of process. Assume that both states’ requirements for service of process are identical to the requirements of the Federal Rules of Civil Procedure.
+
+Is the court likely to dismiss the action for improper service of process?
+
+A. No, because service was made on a person of suitable age found at the stockbroker's place of employment.
+B. No, because the stockbroker waived her claim for improper service of process by asserting it in her answer.
+C. Yes, because an individual defendant may not be served by delivering process to a third party found at the defendant's place of employment.
+D. Yes, because the process of State A courts is not effective in State B.
+

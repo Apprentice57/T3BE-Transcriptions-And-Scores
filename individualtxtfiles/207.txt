@@ -1,0 +1,14 @@
+OA450: A Christmas Deep-Dive into the COVID Bill
+
+A man was arrested as the main suspect in a murder investigation. He was brought into an interrogation room, but was not read his Miranda rights. A police officer asked the man, "Where were you on the night of May 2?" The man proceeded to confess to the murder. He also told the officer
+where to find the murder weapon. The officer immediately left the room, and he then realized that he accidentally forgot to read the man his Miranda rights. He reported his mistake to the chief, who decided to place the man in a holding cell while they searched for the weapon. The weapon was recovered. Two days later, the man was brought back into the interrogation room where he was questioned by a different officer. Prior to questioning, this officer properly read the man his Miranda rights. The man stated that he understood his rights and repeated his confession, although he left out any discussion of the murder weapon.
+
+At his trial, the man admitted that both of his statements were voluntarily made, but argued that they should each be suppressed, along with the weapon, all of which were fruit of a Miranda violation.
+
+Which, if any, pieces of evidence should be suppressed?
+
+A. Both of the confessions and the weapon should be suppressed.
+B. The first confession and the weapon should be suppressed, but the second confession should be admitted.
+C. The first confession should be suppressed, but the weapon and the second confession should be admitted.
+D. Both of the confessions should be suppressed, but the weapon should be admitted.
+

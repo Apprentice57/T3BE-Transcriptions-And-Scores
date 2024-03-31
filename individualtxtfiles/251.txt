@@ -1,0 +1,11 @@
+OA540: The Bizarre Case of Steven Donziger
+
+A defendant is on trial for a robbery that recently occurred at a department store. Witnesses saw two men fleeing the scene, but no one got a good look at them. Two days after the robbery, a co-conspirator went to the police station, no longer able to keep his secret. He said he needed to tell the officers something. The lead investigator took the co-conspirator into an office. The co-conspirator said, "I can't take it anymore, [the defendant] and I committed the robbery." The defendant was subsequently arrested. The co-conspirator has not said a word since making that statement and refuses to testify at any hearing or trial. The prosecutor asks the lead investigator to testify regarding the statement made by the co-conspirator. The defendant moves to suppress the statement
+
+Is the co-conspirator’s statement likely to be admitted?
+
+A. Yes as a statement by a co-conspirator
+B. Yes as a statement against interest
+C. No, because it would violate the defendant's constitutional rights
+D. No, because the statement is hearsay and does not fall under any exception.
+

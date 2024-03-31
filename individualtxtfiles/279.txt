@@ -1,0 +1,15 @@
+OA601: SCOTUS Ruling Guarantees More Innocent Will Be Put to Death
+
+A restaurant headquartered in state a was the subject of multiple premises, liability suits, stemming from a spill on the floor that caused multiple injuries.
+
+Plaintiff 1 sued the restaurant in state court located in state A for negligence. In that suit, it was determined after a full litigation that the employees of the corporation were aware of the spill on the floor and did have a duty to warn the plaintiff of the spill. Following a full trial, plaintiff 1 succeeded in her suit against the restaurant. The restaurant filed an appeal and that appeal is still pending. Plaintiff 2 filed suit against the restaurant in federal court located in state B. Plaintiff 2 sought to preclude the restaurant from asserting that it did not owe a duty to warn of the spill under collateral estoppel. The law of State A allows for the use of offensive non-mutual collateral estoppel.
+
+The law of State B prohibits the use of offensive non-mutual collateral estoppel. Federal law allows for the use of collateral estoppel as justice permits. The law in all three jurisdictions states that a judgment is final until reversed or otherwise modified assumed jurisdiction and venue are proper.
+
+What should the court do?
+
+A. Allow the restaurant to litigate the issue of its duty to warn, because the federal court will apply the law of the state in which it sits.
+B. Evaluate whether justice would allow the use of non-mutual collateral estoppel because the federal law will apply its own law on procedural issues.
+C. Prohibit the restaurant from litigating the issue of its duty to warn because the federal court will apply the law of state A.
+D. Delay the case until the appeal is decided.
+

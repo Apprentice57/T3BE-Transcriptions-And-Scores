@@ -1,0 +1,11 @@
+OA498: The Garland DoJ Coverage is Completely Wrong
+
+At a defendant's trial for extortion, the prosecutor called a witness expecting her to testify that she had heard the defendant threaten a man with physical harm unless the man made payoffs to the defendant. The witness denied ever having heard the defendant make such threats, even though she had testified to that effect before the grand jury. The prosecutor now seeks to admit the witness’s grand jury testimony.
+
+How should the court rule with regard to the grand jury testimony?
+
+A. Admit the testimony, because it contains a statement by a party-opponent.
+B. Admit the testimony, both for impeachment and for substantive use, because the witness made the inconsistent statement under oath at a formal proceeding.
+C. Admit the testimony under the former testimony exception to the hearsay rule.
+D. Exclude the testimony for substantive use, because it is a testimonial statement.
+
