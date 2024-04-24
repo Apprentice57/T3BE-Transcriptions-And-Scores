@@ -1,6 +1,9 @@
+T3BE Week 10! Disappearing Wallets and Fake Philanthropy
+
 Peter, a philanthropist, publicly promised to donate $10 million to support an upcoming medical research project at a university. Relying on this pledge, the university invested heavily in the project's infrastructure. Peter, however, decided not to make the donation. Can the university enforce Peter's promise?
 
 A. No, because Peter's promise was a gift without consideration.
 B. Yes, because the university detrimentally relied on Peter's promise.
 C. No, because there was no signed agreement between Peter and the university.
 D. Yes, because Peter's promise created a moral obligation.
+
