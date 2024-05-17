@@ -4270,12 +4270,20 @@ D. Arson, assault, and attempted murder.
 Question #M23
 Cannabis Rescheduling; Judge Cannon Stops Trump Trial
 
-Rebecca, a famous violinist, signed a contract with "The Grand Symphony," an esteemed music company, to perform exclusively at their annual concerts for the next three years. Due to a sudden illness, Rebecca was unable to perform and thus delegated her performance duties to her protege, Lisa, a violinist of equal skill and reputation. The Grand Symphony refused ot accept Lisa's performance. Lisa sued The Grand Symphony for breach of contract. Is Lisa likely to succeed in her claim?
+Rebecca, a famous violinist, signed a contract with "The Grand Symphony," an esteemed music company, to perform exclusively at their annual concerts for the next three years. Due to a sudden illness, Rebecca was unable to perform and thus delegated her performance duties to her protégé, Lisa, a violinist of equal skill and reputation. The Grand Symphony refused to accept Lisa's performance. Lisa sued The Grand Symphony for breach of contract. Is Lisa likely to succeed in her claim?
 
 A. Yes, because Rebecca was legitimately unable to perform.
 B. Yes, because Lisa has equal skill and reputation.
 C. No, because a contract for personal services cannot be delegated.
 D. No, because Rebecca did not fulfill her contractual obligation.
+
+Question #M24
+Jack owns a large fish farm and keeps several difference species, including a type of fish known for its aggressive behavior. One day, a group of divers enters his property without permission and is attacked by the aggressive fish, resulting in injuries. The divers sue Jack under strict liability for their injuries. How will a court likely rule?
+
+A. In favor of Jack, because the divers were trespassing on his property.
+B. In favor of the divers, because Jack is strictly liable for injuries caused by his dangerous animals, regardless of the divers' trespassing.
+C. In favor of Jack, if he can prove that he had posted adequate warning signs about the aggressive fish.
+D. In favor of the divers, but only if they can prove that Jack was negligent in securing the area where the aggressive fish were kept.
 
 Question #Mb1
 Thomas Takes the Bar Exam Returns! T3BE Week 1
