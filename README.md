@@ -10,3 +10,5 @@ The transcriptions may have errors associated with the automation involved. Ques
 
 "Allquestions.txt" has all the questions texts combined and is probably what you want to view/download. To download, click on the file so it opens in Github's file viewer, then click the "Download raw file" button in the top-right corner of the viewer. If you want a specific question by itself check out the "individualtxtfiles" folder.
 
+If you just want to see questions since the reboot compiled together, look at "RebootQuestions.txt". If you just want to see the old run of questions complied together, look at "OldQuestions.txt"
+
