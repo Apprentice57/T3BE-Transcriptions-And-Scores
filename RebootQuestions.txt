@@ -1,0 +1,310 @@
+Question #001
+Thomas Takes the Bar Exam Returns! T3BE Week 1
+
+A man who believed that his wife was cheating on him with her gym trainer decided to kill the trainer. He loaded his handgun and set off for the trainer’s house. Because he was anxious about committing the crime, the man first stopped at a bar, drank eight shots of hard liquor, and became intoxicated. He then left the bar and went to the trainer's house. When the trainer answered the door, the man shot and killed him, The man then passed out on the trainer's porch.
+
+The man has been charged with murder in a jurisdiction that follows the common law.
+
+Can the man raise an intoxication defense?
+
+A. No, because drinking at the bar was the proximate cause of the killing.
+B. No, because the man intended to commit the murder and drank to strengthen his nerve.
+C. Yes, because drinking at the bar was a foreseeable intervening cause of the killing.
+D. Yes, because the man’s intoxication negated the specific intent required for murder.
+
+Question #002
+Thomas Takes the Bar Exam Returns! T3BE Week 1
+
+Without a warrant, police officers searched the garbage cans in the alley behind a man's house and discovered chemicals used to make methamphetamine, as well as cooking utensils and containers with the man's fingerprints on them. The alley was a public thoroughfare maintained by the city, and the garbage was picked up once a week by a private sanitation company. The items were found inside the garbage cans in plastic bags that had been tied closed and further secured with tape. The man was charged in federal court with the manufacture of methamphetamine.
+
+Did the search of the garbage cans violate the Fourth Amendment?
+
+A. No, because the man had no reasonable expectation of privacy in garbage left in the alley.
+B. No, because the probative value of the evidence outweighs the man's modest privacy claims in his garbage.
+C. Yes, because the alley was within the curtilage of the man's home and entry without a warrant was unconstitutional.
+D. Yes, because there is a reasonable expectation of privacy in one's secured garbage containers.
+
+Question #003
+Thomas Takes the Bar Exam Returns! T3BE Week 1
+
+A doctor who was licensed to practice medicine in a particular state was convicted in state court of improperly distributing specified drugs by writing prescriptions for fictitious persons. Under state law, such an abuse of the prescription-writing privilege requires revocation of a doctor's license. After it received an official notification of the doctor's conviction, the state medical board revoked the doctor's license without affording the doctor any opportunity for a hearing.
+
+The doctor has sued the board in state court to set aside the revocation, alleging deprivation of property without due process of law because the board did not provide an opportunity for a trial-type hearing before revoking the license. The doctor does not deny the conviction or the factual basis for it.
+
+Which of the following is the strongest argument in support of the state medical board?
+
+A. A doctor’s license to practice is a privilege, not a right, and therefore is not property within the meaning of the due process clause of the Fourteenth Amendment.
+B. Due process requires a balancing of interests, and the state’s interest in preventing drug abuse outweighs the doctor’s interest in the particular procedure followed in the disciplinary proceeding.
+C. The adjudicative facts necessary to revoke the doctor's license were determined in the criminal trial, and therefore due process does not require any further trial-type hearing.
+D. The licensing board was required to summarily revoke the doctor's license because Article IV, Section 1, of the Constitution requires the licensing board to give full faith and credit to the doctor's criminal conviction.
+
+Question #004
+T3BE Week 2!
+
+A husband and wife took their 12-year-old son to a political rally in an auditorium to hear a controversial United States senator speak. The speaker was late, and the wife stepped outside the auditorium to smoke a cigarette. While there, she saw a man placing what she believed to be a bomb against the back wall of the auditorium. She went back inside and told her husband what she had seen. Without alerting anyone, they took their son and left. Some 20 minutes later, the bomb exploded, killing 8 persons and injuring 50. In the jurisdiction, murder in the first degree is defined as an intentional homicide committed with premeditation and deliberation; murder in the second degree is defined as all other murder at common law; and manslaughter is defined as either a homicide in the heat of passion arising from adequate provocation or a homicide caused by gross negligence or reckless indifference to consequence.
+
+As to the deaths of the eight persons, what crime, if any, did the wife commit?
+
+A. Manslaughter.
+B. Murder in the first degree.
+C. Murder in the second degree.
+D. No crime.
+
+Question #005
+T3BE Week 2!
+
+A nightclub owner applied for a required zoning permit to open a nude-dancing nightclub in the theater district of a city. An organization of influential city residents began an intensive lobbying effort to persuade the city council to deny the owner a permit to operate any type of nude-dancing facility at any time or in any place in the city.
+
+The owner has sued the city in an appropriate federal court, seeking an injunction that would prohibit the city council from considering the organization’s views, on the ground that if the organization is successful in its lobbying efforts, the owner's First and Fourteenth Amendment rights would be violated. The city has moved to dismiss the action.
+
+Should the court dismiss the owner’s action?
+
+A. No, because nude dancing is symbolic speech and is therefore protected by the First and Fourteenth Amendments.
+B. No, because the organization does not seek a reasonable time, place, and manner regulation of nude dancing, but instead seeks a total ban on the owner’s opening any type of nude-dancing facility at any time or in any place in the city.
+C. Yes, because the action is not ripe.
+D. Yes, because the First and Fourteenth Amendments do not protect obscenity, and nude dancing is obscene.
+
+Question #006
+T3BE Week 3! Drugs and Hearsay
+
+Police officers had probable cause to believe that drug dealing was routinely taking place in a particular room at a local motel. The motel manager authorized the officers to enter the room and provided them with a passkey. Without obtaining a warrant, the officers knocked on the room's door, announced their presence, and told the occupants that they would like to speak with them. The officers then heard yelling and repeated flushing of the toilet. They then used passkey and entered the rooms. Where they saw the occupants dumping drugs into the toilet. The occupants of the rooms were charged with drug dealing and have moved to suppress the drugs.
+
+Should the court grant the motion to suppress?
+
+A. No, because exigent circumstances justified the officers' entry.
+B. No, because the motel manager consented to the officers' entry.
+C. Yes, because exigent circumstances cannot excuse the lack of a warrant.
+D. Yes, because the officers cannot benefit from exigent circumstances that they created.
+
+Question #007
+T3BE Week 3! Drugs and Hearsay
+
+A defendant was charged with aggravated assault. At trial, the victim testified that the defendant beat her savagely, but she was not asked about anything said during the incident. The prosecutor then called a witness to testify that when the beating stopped, the victim screamed: "I'm dying. Don't let [the defendant] get away with it!"
+
+Is the testimony of the witness concerning the victim's statement admissible?
+
+A. No, because it is hearsay not within any exception.
+B. No, because the victim was not asked about the statement.
+C. Yes, as a statement under belief of imminent death, even though the victim did not die.
+D. Yes, as an excited utterance.
+
+Question #008
+T3BE Week 4! Firefighters' Rule and Interstate Commerce
+
+A driver, returning home from a long work shift at a factory, fell asleep at the wheel and lost control of his car. As a result, his car collided with a police car driven by an officer who was returning to the station after having responded to an emergency. The officer was injured in the accident and later sued the driver in negligence for her injuries. The driver has moved for summary judgment, arguing that the common law firefighters' rule bars the suit.
+
+Should the court grant the motion?
+
+A. No, because the firefighters' rule does not apply to police officers.
+B. No, because the police officer's injuries were not related to any special dangers of her job.
+C. Yes, because the accident would not have occurred but for the emergency.
+D. Yes, because the police officer was injured on the job.
+
+Question #009
+T3BE Week 4! Firefighters' Rule and Interstate Commerce
+
+A federal statute extends federal minimum wage requirements to all dry cleaning stores. The statute contains express findings that, when combined, the wages received by dry cleaning workers have a substantial impact on the national economy and on the flow of goods and services in interstate commerce. These findings are supported by information presented to Congress during committee hearings on the legislation.
+
+A small dry cleaning store operates exclusively within a community in the center of a geographically large state. It has no customers from outside the state. It employs three workers, each of whom is paid less than the federal minimum wage.
+
+Must this dry cleaning store comply with the statute imposing the federal minimum wage requirements on all dry cleaning stores?
+
+A. No, because the store does no business in interstate commerce.
+B. No, because the wages of the store’s three workers do not have a substantial impact on interstate commerce.
+C. Yes, because the commerce clause vests Congress with plenary legislative authority over labor relations.
+D. Yes, because the wages paid by dry cleaning stores have a substantial impact on interstate commerce.
+
+Question #010
+T3BE Week 5! Personal Injury and Comparative Negligence
+
+In a personal injury case, the plaintiff sued a retail store for injuries she sustained from a fall in the store. The plaintiff alleged that the store had negligently allowed its entryway to become slippery from snow tracked in from the sidewalk. Before the lawsuit was filed, when the plaintiff first threatened to sue, the store's manager said, "I know that there was slush on that marble entryway, but I think your four-inch-high heels were the real cause of your fall. So let's agree that we'll pay your medical bills, and you release us from any claims you might have." The plaintiff refused the offer. At trial, the plaintiff seeks to testify to the manager's statement that "there was slush on that marble entryway."
+
+Is the statement about the slush in the entryway admissible?
+
+A. No, because it is a statement made in the course of compromise negotiations.
+B. No, because the manager denied that the slippery condition was the cause of the plaintiff's fall.
+C. Yes, as a statement by an agent about a matter within the scope of his authority.
+D. Yes, because the rule excluding offers of compromise does not protect statements of fact made during compromise negotiations.
+
+Question #011
+T3BE Week 5! Personal Injury and Comparative Negligence
+
+A bright 12-year-old child attended a day-care center after school. The center was located near a man-made duck pond on the property of a corporation. During the winter, the pond was used for ice-skating when conditions were suitable. At a time when the pond was obviously only partially frozen, the child sneaked away from the center’s property and walked out onto the ice over the pond. The ice gave way, and the child fell into the cold water. He suffered shock and would have drowned had he not been rescued by a passerby. At the time of the incident, the pond was clearly marked with numerous signs that stated, "THIN ICE-KEEP OFF." When the child sneaked away from the day-care center, the center was staffed with a reasonable number of qualified employees, and the employees were exercising reasonable care to ensure that the children in their charge did not leave the premises. There had not been a previous instance of a child coming onto the corporation’s property from the day-care center. The jurisdiction follows a rule of pure comparative negligence.
+
+In a suit brought on the child’s behalf against the day-care center and based only on the facts above, who is likely to prevail?
+
+A. The child, because he left the center while he was under the center’s care.
+B. The child, because the day-care center is located near a pond.
+C. The day-care center, because it was not negligent.
+D. The day-care center, because the child was a trespasser.
+
+Question #012
+T3BE Week 6 - ROCKED by Scandal #T3BEgate2
+
+A state constitution provides that in every criminal trial "the accused shall have the right to confront all witnesses against him face to face." A defendant was convicted in state court of child abuse based on testimony from a six-year-old child. The child testified while she was seated behind one-way glass, which allowed the defendant to see the child but did not allow the child to see the defendant. The defendant appealed to the state's highest court, claiming that the inability of the child to see the defendant while she testified violated both the United States Constitution and the state constitution. Without addressing the federal constitutional issue, the state's highest court reversed the defendant's conviction and ordered a new trial. The court held that "the constitution of this state is clear, and it requires that while testifying in a criminal trial, a witness must be able to see the defendant." The state petitioned the United States Supreme Court for a writ of certiorari.
+
+On which ground should the United States Supreme Court DENY the state's petition?
+
+A. A state may not seek appellate review in the United States Supreme Court of the reversal of a criminal conviction by its highest court.
+
+B. The decision of the state's highest court was based on adequate and independent state ground.
+
+C. The Sixth Amendment to the United States Constitution does not require that a witness against a criminal defendant be able to see the defendant while the witness testifies.
+
+D. The decision of the state's highest court requires a new trial, and therefore it is not a final judgment.
+
+Question #013
+T3BE Week 6 - ROCKED by Scandal #T3BEgate2
+
+A man and a woman agreed that the woman would rob a bank and that the man would steal a car beforehand for the woman to use as a gateway vehicle. The man stole a car and parked it two blocks from the bank. He left the car key under the floor mat with a note saying that he wanted nothing more to do with the scene.
+
+The next day, the woman robbed the bank and ran to the spot where the man had said he would leave the stolen car. She then escaped in the car and disappeared. She never shared any of the money with the man.
+
+In a jurisdiction that has adopted the bilateral requirement for conspiracy, can the man properly be convicted of conspiring with the woman to rob the bank?
+
+A. No, because the man received no benefit from the robbery.
+B. No, because the man withdrew from the conspiracy.
+C. Yes, because the robbery was successful due in part to the man's actions.
+D. Yes, because there was an agreement to rob the bank and an overt act in furtherance of the agreement.
+
+Question #014
+T3BE Week 7! Best Evidence and Contract Law
+
+A defendant is being prosecuted for conspiracy to possess methamphetamine with intent to distribute. At trial, the government seeks to have its agent testify to a conversation that he overheard between the defendant and a coconspirator regarding the incoming shipment of a large quantity of methamphetamine. That conversation was also audiotaped, though critical portions of it are inaudible. The defendant objects to the testimony of the agent on the ground that it is not the best evidence of the conversation.
+
+Is the testimony of the agent admissible?
+
+A. No, because the testimony of the agent is not the best evidence of the conversation.
+B. No, because the testimony of the agent recounts hearsay not within any exception.
+C. Yes, because the best evidence rule does not require proof of the conversation through the audiotape.
+D. Yes, because the audiotape is partly inaudible.
+
+Question #015
+T3BE Week 7! Best Evidence and Contract Law
+
+Your client owns a carpet cleaning company. The company recently contracted with a customer to clean the carpets throughout the customer's ten-story building for $15,000, with payment due in 30 days. Before payment was due, the customer sent your client a check for $12,000 along with a note specifying that several of the carpets still had stains and included pictures of the stained carpets. The customer's note also said that if your client cashes the check, the remainder of the customer's debt will be discharged.
+
+Your client now seeks your advice as to whether the company can cash the check without relinquishing its right to recover the remainder of the customer's debt.
+
+Which of the following search term(s) would be the most likely to produce resources that will answer the client's question?
+
+A. Accord and satisfaction.
+B. Consideration.
+C. Novation.
+D. Offer and Acceptance.
+
+Question #016
+T3BE Week 8! Elaborate Crimes and Psychedelics
+
+Milo, a well-known musician, has battled with severe depression for many years. One evening, while under extreme distress, Milo ingests an excessive amount of psychedelic mushrooms, hoping that the experience would provide him with some clarity. During his hallucinogenic trip, Milo believes he is being attacked by a giant insect monster and, in an attempt to defend himself, he breaks a window and severely injures a bystander outside his home. Upon being charged with aggravated assault, Milo pleads not guilty by reason of insanity, arguing that his mental illness combined with the hallucinations made him incapable of understanding the nature of his act. Which of the following is the most accurate?
+
+A. Milo should be acquitted because his voluntary consumption of hallucinogens was an extension of his mental illness.
+
+B. Milo's plea is valid, as he was hallucinating during the incident, which hindered his understanding of reality.
+
+C. Milo's plea is invalid, as voluntary intoxication cannot be the basis for an insanity defense.
+
+D. Milo should be convicted, as the insanity defense requires a continuous, persistent state of psychosis.
+
+Question #017
+T3BE Week 8! Elaborate Crimes and Psychedelics
+
+Claire, a disgruntled employee, was determined to disrupt her company's annual charity gala. She believed her company was using the charity event to launder money. So, she decided to protest by tampering with the company's new software system, which was set to be unveiled at the gala. Claire had been involved in the development of the system and knew that an excessive amount of data could cause the system to crash. So, she started feeding irrelevant and bogus data into the system. At the gala, when the system was unveiled and the influx of information started to pour in, the system crashed as Claire had planned. The gala came to a halt and the incident resulted in significant reputational damage for the company.
+
+However, unbeknownst to Claire, the software system was also utilized in the operation of local emergency services, which experienced a temporary shutdown when the system crashed. This resulted in delays in dispatching emergency vehicles, causing a severe injury to be fatal due to the delay in getting the victim to the hospital. The state has a strict liability statute that penalizes anyone who disrupts emergency services. Claire was charged under this statute. She defended herself by claiming she didn't know the software sys tem was used for emergency services, and her intent was solely to disrupt the company's gala.
+
+Given the nature of the strict liability statute, how should the court rule?
+
+A. Claire is guilty because she disrupted the emergency services, regardless of her knowledge or intent.
+
+B. Claire is not guilty because she did not intend to disrupt emergency services.
+
+C. Claire is guilty because she intentionally disrupted the gala, and the disruption of emergency services was a consequence of that.
+
+D. Claire is not guilty because the company didn't inform her that the software system was used for emergency services.
+
+Question #018
+T3BE Question 9! Prescription Negligence and Breach of Contract
+
+Olivia, a pharmacist, accidentally gives a customer, Patrick, the wrong prescription medication. Patrick suffers an adverse reaction to the medication and is hospitalized. Patrick sues Olivia for negligence. At trial, expert witnesses testify that the medication Olivia gave Patrick was in a similar-looking container to the correct medication, and that other pharmacists have made similar mistakes in the past. What is the most likely outcome of this case?
+
+A. Olivia will be found negligent because she failed to exercise the standard of care required of a pharmacist.
+B. Olivia will not be found negligent because the medication containers looked similar.
+C. Olivia will be found negligent only if Patrick can prove that she intentionally gave him the wrong medication.
+D. Olivia will not be found negligent if other pharmacists have made similar mistakes in the past.
+
+Question #019
+T3BE Question 9! Prescription Negligence and Breach of Contract
+
+Lucy and Brandon, two aspiring musicians, signed an agreement where Lucy, a songwriter, would write an original song for Brandon, a popular singer. The contract stipulated that the song would remain exclusive to Brandon, and Lucy would not share it with any other artist. However, due to some personal reasons, Lucy decided to share the song with another singer, contrary to the terms of the contract. Brandon, upon learning this, filed a lawsuit against Lucy, seeking an injunction against the breach.
+
+A. Brandon will prevail because Lucy breached the contract.
+B. Lucy will prevail because an injunction cannot be used in cases involving creative works.
+C. Brandon will prevail because an injunction is an appropriate remedy in cases involving exclusive rights.
+D. Lucy will prevail because she shared the song due to personal reasons.
+
+Question #020
+T3BE Week 10! Disappearing Wallets and Fake Philanthropy
+
+Clyde, a local street performer, is known for his mesmerizing magic tricks. On this particular day, Clyde announces that he will be performing a new trick involving a wallet and a volunteer from the audience. Charles, an unsuspecting tourist, agrees to participate, handing over his wallet to Clyde. Clyde promises Charles and the audience that the wallet will disappear and then reappear in Charles' pocket. However, once the wallet 'disappears', it never reappears. Clyde later confesses that there was no magic trick, he just wanted to steal Charles wallet. In this case:
+
+A. Clyde cannot be charged with robbery as he did not use force or threat of force.
+B. Clyde can be charged with robbery as he deceived Charles and the audience.
+C. Clyde cannot be charged with robbery as Charles voluntarily handed over  his wallet.
+D. Clyde can be charged with robbery as he intended to steal Charles' wallet.
+
+Question #021
+T3BE Week 10! Disappearing Wallets and Fake Philanthropy
+
+Peter, a philanthropist, publicly promised to donate $10 million to support an upcoming medical research project at a university. Relying on this pledge, the university invested heavily in the project's infrastructure. Peter, however, decided not to make the donation. Can the university enforce Peter's promise?
+
+A. No, because Peter's promise was a gift without consideration.
+B. Yes, because the university detrimentally relied on Peter's promise.
+C. No, because there was no signed agreement between Peter and the university.
+D. Yes, because Peter's promise created a moral obligation.
+
+Question #022
+The Trump Trial Is On, and Lordy There Are Transcripts!
+
+Jenny, a disgruntled tenant, had been living in a rundown apartment building for years. She was tired of the landlord's consistent failure to make necessary repairs. To teach the landlord a lesson, Jenny decided to set her apartment on fire, hoping that the fire would destroy the entire building and that she could start anew somewhere else. One night, she doused her old couch in her living room with kerosene and set it on fire. To her shock, the fire spread rapidly and got out of control. Panicked she ran outside the building, screaming and warning other tenants about the fire. Most of the tenants were able to escape the fire, but two tenants, an elderly couple living directly above Jenny, were severely injured while escaping. Once the fire was put out by the fire department, the police investigated and found out from other tenants that Jenny had warned them about the fire. On questioning, Jenny confessed to setting her apartment on fire.
+
+What is the most serious crime Jenny could be charged with?
+
+A. Arson only.
+B. Arson and assault.
+C. Arson and attempted murder.
+D. Arson, assault, and attempted murder.
+
+Question #023
+Cannabis Rescheduling; Judge Cannon Stops Trump Trial
+
+Rebecca, a famous violinist, signed a contract with "The Grand Symphony," an esteemed music company, to perform exclusively at their annual concerts for the next three years. Due to a sudden illness, Rebecca was unable to perform and thus delegated her performance duties to her protégé, Lisa, a violinist of equal skill and reputation. The Grand Symphony refused to accept Lisa's performance. Lisa sued The Grand Symphony for breach of contract. Is Lisa likely to succeed in her claim?
+
+A. Yes, because Rebecca was legitimately unable to perform.
+B. Yes, because Lisa has equal skill and reputation.
+C. No, because a contract for personal services cannot be delegated.
+D. No, because Rebecca did not fulfill her contractual obligation.
+
+Question #024
+Liz Warren's CFPB Saved By... Originalism?
+
+Jack owns a large fish farm and keeps several difference species, including a type of fish known for its aggressive behavior. One day, a group of divers enters his property without permission and is attacked by the aggressive fish, resulting in injuries. The divers sue Jack under strict liability for their injuries. How will a court likely rule?
+
+A. In favor of Jack, because the divers were trespassing on his property.
+B. In favor of the divers, because Jack is strictly liable for injuries caused by his dangerous animals, regardless of the divers' trespassing.
+C. In favor of Jack, if he can prove that he had posted adequate warning signs about the aggressive fish.
+D. In favor of the divers, but only if they can prove that Jack was negligent in securing the area where the aggressive fish were kept.
+
+Question #025
+Law School Doesn't Have to Suck
+
+A plaintiff was on a crowded BART train during commute hours on the way home. The BART line was undergoing significant renovations, resulting in frequent, sudden stops by the BART trains. The plaintiff was standing in the middle of one of the BART cars and holding onto a pole for stability. The defendant, also standing in the same BART car, was texting on his cell phone and not holding onto anything. The BART train came to a sudden stop causing the defendant to fall toward the plaintiff. The defendant lightly grabbed the plaintiff's arm to stop himself from falling completely over. The plaintiff did not like being touched by anyone. Although she was not injured by the defendant's conduct, the plaintiff subsequently brought an action for battery against the defendant.
+
+Will the plaintiff prevail?
+
+A. No, because the plaintiff consented to the defendant's contact.
+B. No, because the plaintiff did not suffer any actual harm.
+C. Yes, because the defendant failed to exercise reasonable care.
+D. Yes, because the defendant intentionally grabbed her arm.
+
+
