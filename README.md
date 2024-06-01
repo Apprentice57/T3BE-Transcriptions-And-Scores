@@ -1,4 +1,4 @@
-# T3BE-Transcriptions
+# T3BE-Transcriptions-And-Scores
 
 This is a machine assisted transcription of T3BE questions from the Opening Arguments Podcast. 
 
