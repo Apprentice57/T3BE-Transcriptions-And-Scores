@@ -157,7 +157,7 @@ def calculateStats(fullAnswers, fullMD, names, cutoff):
         numAnswered = 0
         numAnsweredSub = 0
 
-        i = 0
+        i = 1
         for m in fullMD:
             #do not count question if bonus
             if fullMD[m]["IsBonus"] == "No":
