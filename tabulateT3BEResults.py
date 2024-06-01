@@ -315,7 +315,7 @@ def calculateTotalTotal():
 
 def printTable(fullAnswers, fullMD, names, stats, cutoff):
     questionsToIterate = files[-1 * cutoff:]
-    legend = "username / Q#->"
+    legend = "Username / Q#->"
 
     longestName = findLongestUsername(names)
     if (len(legend) > longestName):
