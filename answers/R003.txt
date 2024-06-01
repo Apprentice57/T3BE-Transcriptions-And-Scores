@@ -1,0 +1,8 @@
+Question 3
+QuestionType Patron
+IsBonus No
+CountsForThomas Yes
+IsRepeat No
+Answer C. The adjudicative facts necessary to revoke the doctor's license were determined in the criminal trial, and therefore due process does not require any further trial-type hearing.
+
+NegatronThomas C

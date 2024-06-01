@@ -1,0 +1,8 @@
+Question 21
+QuestionType Patron
+IsBonus No
+CountsForThomas Yes
+IsRepeat No
+Answer B. Yes, because the university detrimentally relied on Peter's promise.
+
+NegatronThomas A

@@ -1,0 +1,15 @@
+Question 23
+QuestionType Public
+IsBonus No
+CountsForThomas Yes
+IsRepeat No
+Answer C. No, because a contract for personal services cannot be delegated.
+
+NegatronThomas C
+Bukowskified B
+Apprentice57 B
+ignorememe D
+SAJedi425 B
+MegaTrain C
+its_sandwich_time D
+JagerVanKaas C

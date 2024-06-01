@@ -1,0 +1,8 @@
+Question 17
+QuestionType Patron
+IsBonus No
+CountsForThomas Yes
+IsRepeat No
+Answer A. Claire is guilty because she disrupted the emergency services, regardless of her knowledge or intent.
+
+NegatronThomas D

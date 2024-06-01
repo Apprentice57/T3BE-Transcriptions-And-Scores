@@ -1,0 +1,8 @@
+Question 25
+QuestionType ThomasOnly
+IsBonus No
+CountsForThomas Yes
+IsRepeat No
+Answer A. No, because the plaintiff consented to the defendant's contact.
+
+NegatronThomas A

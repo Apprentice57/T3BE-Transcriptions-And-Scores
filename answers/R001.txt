@@ -1,0 +1,8 @@
+Question 1
+QuestionType ThomasOnly
+IsBonus No
+CountsForThomas Yes
+IsRepeat No
+Answer B. No, because the man intended to commit the murder and drank to strengthen his nerve.
+
+NegatronThomas B

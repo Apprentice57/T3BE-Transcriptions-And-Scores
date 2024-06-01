@@ -1,0 +1,8 @@
+Question 19
+QuestionType Patron
+IsBonus No
+CountsForThomas Yes
+IsRepeat No
+Answer C. Brandon will prevail because an injunction is an appropriate remedy in cases involving exclusive rights.
+
+NegatronThomas D

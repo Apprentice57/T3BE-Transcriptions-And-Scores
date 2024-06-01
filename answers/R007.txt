@@ -1,0 +1,8 @@
+Question 7
+QuestionType Patron
+IsBonus No
+CountsForThomas Yes
+IsRepeat Yes
+Answer D. Yes, as an excited utterance.
+
+NegatronThomas C
