@@ -1,13 +1,18 @@
-import sys
+import sys, os
 
-files = ["R001.txt", "R002.txt", "R003.txt", "R001b.txt", "R004.txt", "R005.txt", "R006.txt", "R007.txt", \
-         "R008.txt", "R009.txt", "R010.txt", "R011.txt", "R012.txt", "R013.txt", "R014.txt", "R015.txt", \
-         "R016.txt", "R017.txt", "R018.txt", "R019.txt", "R020.txt", "R021.txt", "R022.txt", "R023.txt", \
-         "R024.txt", "R025.txt", "R026.txt"]
+files = []
+
+folder = "answers"
+
+#add all txt files in /answers as the source of question data.
+for filename in os.listdir("./" + folder):
+    if filename.endswith(".txt") and filename != "nextquestion.txt":
+        files.append(filename)
+
+files.sort()
 
 mostRecentWindow = int(sys.argv[1])
 
-folder = "answers"
 listThomasFirst = True
 
 def readFile(filePath):
