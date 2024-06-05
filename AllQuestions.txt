@@ -4191,11 +4191,8 @@ T3BE Week 8! Elaborate Crimes and Psychedelics
 Milo, a well-known musician, has battled with severe depression for many years. One evening, while under extreme distress, Milo ingests an excessive amount of psychedelic mushrooms, hoping that the experience would provide him with some clarity. During his hallucinogenic trip, Milo believes he is being attacked by a giant insect monster and, in an attempt to defend himself, he breaks a window and severely injures a bystander outside his home. Upon being charged with aggravated assault, Milo pleads not guilty by reason of insanity, arguing that his mental illness combined with the hallucinations made him incapable of understanding the nature of his act. Which of the following is the most accurate?
 
 A. Milo should be acquitted because his voluntary consumption of hallucinogens was an extension of his mental illness.
-
 B. Milo's plea is valid, as he was hallucinating during the incident, which hindered his understanding of reality.
-
 C. Milo's plea is invalid, as voluntary intoxication cannot be the basis for an insanity defense.
-
 D. Milo should be convicted, as the insanity defense requires a continuous, persistent state of psychosis.
 
 Question #R017
@@ -4208,11 +4205,8 @@ However, unbeknownst to Claire, the software system was also utilized in the ope
 Given the nature of the strict liability statute, how should the court rule?
 
 A. Claire is guilty because she disrupted the emergency services, regardless of her knowledge or intent.
-
 B. Claire is not guilty because she did not intend to disrupt emergency services.
-
 C. Claire is guilty because she intentionally disrupted the gala, and the disruption of emergency services was a consequence of that.
-
 D. Claire is not guilty because the company didn't inform her that the software system was used for emergency services.
 
 Question #R018
@@ -4242,7 +4236,7 @@ Clyde, a local street performer, is known for his mesmerizing magic tricks. On t
 
 A. Clyde cannot be charged with robbery as he did not use force or threat of force.
 B. Clyde can be charged with robbery as he deceived Charles and the audience.
-C. Clyde cannot be charged with robbery as Charles voluntarily handed over  his wallet.
+C. Clyde cannot be charged with robbery as Charles voluntarily handed over his wallet.
 D. Clyde can be charged with robbery as he intended to steal Charles' wallet.
 
 Question #R021
@@ -4310,5 +4304,13 @@ A. The lease provision does not require the owner's approval of the agreement be
 B. The owner waived his rights to object under the lease by accepting the retailer as a tenant.
 C. A non-assignment provision constitutes an unreasonable restraining on alienation.
 D. The owner does not have a commercially reasonable objection to the distributor as a tenant in the building.
+
+Question #R027
+Congress passes a law regulating the whole-sale and retail prices of "every purchase of an automobile in the United States." The strongest argument in support of the constitutionality of such a statute is that:
+
+A. Taken as a whole, the domestic purchases and sales of such products affect interstate commerce.
+B. The United States Constitution expressly authorizes Congress to pass laws for the general welfare.
+C. Congress has the authority to regulate the prices of products purchased and sold because commerce includes buying and selling
+D. Congress has the right to regulate interstate transportation and the importation of products from abroad.
 
 
