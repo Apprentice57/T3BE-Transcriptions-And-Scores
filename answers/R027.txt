@@ -1,0 +1,9 @@
+Question 27
+QuestionType Public
+IsBonus No
+CountsForThomas Yes
+IsRepeat No
+Answer ?
+
+NegatronThomas ?
+
