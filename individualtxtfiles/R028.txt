@@ -1,0 +1,9 @@
+A woman brought suit in State A federal district court against the company she worked for, claiming that it had failed to promote her on account of her gender, in violation of a federal employment-discrimination statute. The woman is a citizen of State A; the company is a corporation incorporated in State B, with its headquarters in State C and with most of its employees working at the office in State A where the woman works. The relief sought by the suit consisted solely of $46,000 in back pay. Two months after the company timely filed its answer, and while discovery was still pending, the company made a motion to dismiss the suit for lack of subject-matter jurisdiction.
+
+Will the federal court grant the motion?
+
+A. Yes, because the company is a citizen of several states, one of which is the same as the woman's state of citizenship.
+B. Yes, because although there is diversity of citizenship, the amount in controversy requirement is not met.
+C. No, because the woman's claim arises under federal law.
+D. No, because the company waived its objection by failing to assert it either in its answer or in a motion made before it served its answer.
+

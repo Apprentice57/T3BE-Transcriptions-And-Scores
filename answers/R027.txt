@@ -3,7 +3,7 @@ QuestionType Public
 IsBonus No
 CountsForThomas Yes
 IsRepeat No
-Answer ?
+Answer A. Taken as a whole, the domestic purchases and sales of such products affect interstate commerce.
 
 NegatronThomas A
 Apprentice57 A
@@ -14,7 +14,7 @@ Bukowskified A
 pmags3000 B
 PhysicalAd1078 A
 JagerVanKaas A
-OverturnedAppleCart3
+OverturnedAppleCart3 A
 505Films A
 yossi_peti A
 its_sandwich_time A
