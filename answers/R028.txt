@@ -3,7 +3,7 @@ QuestionType ThomasOnly
 IsBonus No
 CountsForThomas Yes
 IsRepeat No
-Answer ?
+Answer C. No, because the woman's claim arises under federal law.
 
 NegatronThomas C
 ThomasSecondChance D
