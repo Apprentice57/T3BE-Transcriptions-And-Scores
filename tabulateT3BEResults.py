@@ -12,6 +12,7 @@ for filename in os.listdir("./" + folder):
 files.sort()
 
 mostRecentWindow = int(sys.argv[1])
+threshold = int(sys.argv[2])
 
 listThomasFirst = True
 
@@ -131,6 +132,8 @@ def compileNames(fullAnswers):
     if listThomasFirst:
         names.remove("NegatronThomas")
         names.insert(0, "NegatronThomas")
+        names.remove("ThomasSecondChance")
+        names.insert(1, "ThomasSecondChance")
 
     underscores = "____-__________-____"
     if underscores in names:
@@ -177,7 +180,7 @@ def calculateStats(fullAnswers, fullMD, names, cutoff):
                         if userAnswer == correctAnswer:
                             numCorrect += 1
 
-                    if n == "NegatronThomas":
+                    if n == "NegatronThomas" or n == "ThomasSecondChance":
                         #For Thomas, no change if it's a repeat he got wrong
                         #But don't count the question if it's a repeat he got right
                         if fullMD[m]["IsRepeat"] == "Yes":
@@ -196,7 +199,7 @@ def calculateStats(fullAnswers, fullMD, names, cutoff):
                             numCorrect += 1
                             numCorrectSub += 1
 
-                    if n == "NegatronThomas":
+                    if n == "NegatronThomas" or n == "ThomasSecondChance":
                         #For Thomas, no change if it's a repeat he got wrong
                         #But don't count the question if it's a repeat he got right
                         if fullMD[m]["IsRepeat"] == "Yes":
@@ -232,6 +235,9 @@ def calculateStatsQuestion(fullAnswers, fullMD, names):
         numAnswered = 0
         correctAnswer = fullMD[m]["Answer"]
         for n in names:
+            if n == "ThomasSecondChance":
+                continue
+
             userAnswer = fullAnswers[m][n]
             if userAnswer != "X":
                 numAnswered += 1
@@ -317,6 +323,47 @@ def calculateTotalLastX(questionsToIterate, stats):
 def calculateTotalTotal():
     return 10 * "-"
 
+def printUser(names, stats, longestName, fullAnswers, questionsToIterate, recordString, shortRecordString, printTop, loopingStats):
+    #if at printTop, print only users more than threshold total answers
+    #if not, print only users between 1 and threshold total answers
+    for n in names:
+        numAnswered = stats[n]["shortNumAnswered"]
+        if printTop:
+            if numAnswered < threshold:
+                continue
+        else:
+            #skip the common players who would be printed if printTop was true
+            if numAnswered >= threshold:
+                continue
+
+            #skip the players who haven't answered anything in the current window
+            if numAnswered < 1:
+                continue
+
+        printFirstCell(n, longestName)
+        for m in questionsToIterate:
+            answer = fullAnswers[m][n]
+            if answer == "X":
+                answer = " "
+            print(makeFiveWide(answer), end = "|")
+        shortRecord = stats[n]["shortRecord"]
+        record = stats[n]["record"]
+
+        if n != "ThomasSecondChance":
+            loopingStats["totalCorrectShort"] += stats[n]["shortNumCorrect"]
+            loopingStats["totalAnsweredShort"] += stats[n]["shortNumAnswered"]
+            loopingStats["totalCorrect"] += stats[n]["numCorrect"]
+            loopingStats["totalAnswered"] += stats[n]["numAnswered"]
+
+        beforeSpaces = int((len(shortRecordString) - len(shortRecord))/2)
+        afterSpaces = (len(shortRecordString) - len(shortRecord)) - beforeSpaces
+        print((beforeSpaces * " ") + shortRecord + (afterSpaces * " "), end = "|")
+        beforeSpaces = int((len(recordString) - len(record))/2)
+        afterSpaces = (len(recordString) - len(record)) - beforeSpaces
+        print((beforeSpaces * " ") + record + (afterSpaces * " ") + "|")
+
+    return loopingStats
+
 
 def printTable(fullAnswers, fullMD, names, stats, cutoff):
     questionsToIterate = files[-1 * cutoff:]
@@ -355,34 +402,34 @@ def printTable(fullAnswers, fullMD, names, stats, cutoff):
     print(interstitial)
 
     #print each user's answers and stats
-    totalCorrectShort = 0
-    totalAnsweredShort = 0
-    totalCorrect = 0
-    totalAnswered = 0
-    for n in names:
-        if stats[n]["shortRecord"] == "0/0":
-            continue
+    loopingStats = { "totalCorrectShort":0, "totalAnsweredShort":0, "totalCorrect":0, "totalAnswered":0 }
 
-        printFirstCell(n, longestName)
-        for m in questionsToIterate:
-            answer = fullAnswers[m][n]
-            if answer == "X":
-                answer = " "
-            print(makeFiveWide(answer), end = "|")
-        shortRecord = stats[n]["shortRecord"]
-        record = stats[n]["record"]
+    loopingStats = printUser(names, stats, longestName, fullAnswers, questionsToIterate, recordString, shortRecordString, True, loopingStats)
+    loopingStats = printUser(names, stats, longestName, fullAnswers, questionsToIterate, recordString, shortRecordString, False, loopingStats)
+    #for n in names:
+    #    if stats[n]["shortRecord"] == "0/0":
+    #        continue
 
-        totalCorrectShort += stats[n]["shortNumCorrect"]
-        totalAnsweredShort += stats[n]["shortNumAnswered"]
-        totalCorrect += stats[n]["numCorrect"]
-        totalAnswered += stats[n]["numAnswered"]
+    #    printFirstCell(n, longestName)
+    #    for m in questionsToIterate:
+    #        answer = fullAnswers[m][n]
+    #        if answer == "X":
+    #            answer = " "
+    #        print(makeFiveWide(answer), end = "|")
+    #    shortRecord = stats[n]["shortRecord"]
+    #    record = stats[n]["record"]
 
-        beforeSpaces = int((len(shortRecordString) - len(shortRecord))/2)
-        afterSpaces = (len(shortRecordString) - len(shortRecord)) - beforeSpaces
-        print((beforeSpaces * " ") + shortRecord + (afterSpaces * " "), end = "|")
-        beforeSpaces = int((len(recordString) - len(record))/2)
-        afterSpaces = (len(recordString) - len(record)) - beforeSpaces
-        print((beforeSpaces * " ") + record + (afterSpaces * " ") + "|")
+    #    totalCorrectShort += stats[n]["shortNumCorrect"]
+    #    totalAnsweredShort += stats[n]["shortNumAnswered"]
+    #    totalCorrect += stats[n]["numCorrect"]
+    #    totalAnswered += stats[n]["numAnswered"]
+
+    #    beforeSpaces = int((len(shortRecordString) - len(shortRecord))/2)
+    #    afterSpaces = (len(shortRecordString) - len(shortRecord)) - beforeSpaces
+    #    print((beforeSpaces * " ") + shortRecord + (afterSpaces * " "), end = "|")
+    #    beforeSpaces = int((len(recordString) - len(record))/2)
+    #    afterSpaces = (len(recordString) - len(record)) - beforeSpaces
+    #    print((beforeSpaces * " ") + record + (afterSpaces * " ") + "|")
 
     print(interstitial)
 
@@ -390,8 +437,8 @@ def printTable(fullAnswers, fullMD, names, stats, cutoff):
     for m in questionsToIterate:
         print(makeFiveWide(fullMD[m]["Record"]), end = "|")
 
-    lastXStat = str(totalCorrectShort) + "/" + str(totalAnsweredShort)
-    totalStat = str(totalCorrect) + "/" + str(totalAnswered)
+    lastXStat = str(loopingStats["totalCorrectShort"]) + "/" + str(loopingStats["totalAnsweredShort"])
+    totalStat = str(loopingStats["totalCorrect"]) + "/" + str(loopingStats["totalAnswered"])
 
     beforeSpaces = int((len(shortRecordString) - len(lastXStat))/2)
     afterSpaces = (len(shortRecordString) - len(lastXStat)) - beforeSpaces
@@ -401,6 +448,7 @@ def printTable(fullAnswers, fullMD, names, stats, cutoff):
     afterSpaces = (len(recordString) - len(totalStat)) - beforeSpaces
     print((beforeSpaces * " ") + totalStat + (afterSpaces * " ") + "|")
 
+    #print last line
     print(interstitial)
     print("")
 

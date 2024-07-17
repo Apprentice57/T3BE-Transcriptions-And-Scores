@@ -4,31 +4,38 @@
 |    Correct Answer    |  D  |  C  |  A  |  A  |  A  |  A  |  C  |  B  |  A  |  C  |          |          |
 |--------------------------------------------------------------------------------------------------------|
 |    NegatronThomas    |  A  |  C  |  B  |  A  |  B  |  A  |  C  |  B  |  A  |  A  |   6/10   |  17/27   |
+|  ThomasSecondChance  |     |     |     |     |     |     |  D  |  D  |  C  |  D  |   0/4    |   0/4    |
+|     Apprentice57     |  B  |  B  |  D  |     |  D  |  A  |  D  |  B  |  A  |  D  |   3/9    |  12/19   |
+|     Bukowskified     |  A  |  B  |  C  |     |  B  |  A  |  D  |  B  |  A  |  D  |   3/9    |   8/16   |
+|  CharlesDickensABox  |  A  |     |  D  |     |     |  A  |  C  |  B  |  A  |  C  |   5/7    |   8/10   |
+|      DerekLChase     |     |     |     |     |     |     |     |     |  A  |  D  |   1/2    |   1/2    |
+|        Eldias        |     |     |     |     |     |     |     |  B  |  A  |  C  |   3/3    |   5/5    |
+|       fauxjolly      |     |     |     |     |     |     |  C  |  B  |     |     |   2/2    |   2/2    |
+|        giglia        |  A  |     |     |     |     |     |     |     |     |  C  |   1/2    |   6/7    |
+|       homininet      |     |     |     |     |     |     |     |     |  A  |  D  |   1/2    |   1/2    |
+|   its_sandwich_time  |  B  |  D  |     |     |  D  |  A  |     |  B  |  A  |  C  |   4/7    |   6/9    |
+|     JagerVanKaas     |  B  |  C  |  A  |     |  A  |  A  |  C  |  B  |  A  |  C  |   8/9    |  12/13   |
+|       jimillett      |     |     |     |     |     |     |  C  |     |  A  |     |   2/2    |   2/2    |
+| OverturnedAppleCart3 |     |     |     |     |     |  A  |  C  |     |     |     |   2/2    |   2/2    |
+|    PhysicalAd1078    |     |     |     |     |     |  A  |  C  |     |     |     |   2/2    |   2/2    |
+|        poored1       |     |     |     |     |     |     |     |     |  A  |  D  |   1/2    |   1/2    |
+|  RestaurantNovel8927 |     |     |     |     |     |     |     |  B  |  A  |  C  |   3/3    |   3/3    |
+| Succ_Semper_Tyrannis |     |     |     |     |     |     |  C  |  B  |     |     |   2/2    |   2/2    |
+|      yossi_peti      |     |     |     |     |     |  A  |     |     |     |  D  |   1/2    |   1/2    |
 |       505Films       |     |     |     |     |     |  A  |     |     |     |     |   1/1    |   1/1    |
 |   AmbulanceChaser12  |     |     |     |     |     |  A  |     |     |     |     |   1/1    |   1/1    |
 |       ansible47      |     |     |     |     |     |  D  |     |     |     |     |   0/1    |   1/2    |
-|     Apprentice57     |  B  |  B  |  D  |     |  D  |  A  |  D  |  B  |  A  |  D  |   3/9    |  12/19   |
 |      BeeIll8276      |     |     |     |     |     |     |     |     |     |  C  |   1/1    |   1/1    |
-|     Bukowskified     |  A  |  B  |  C  |     |  B  |  A  |  D  |  B  |  A  |  D  |   3/9    |   8/16   |
-|  CharlesDickensABox  |  A  |     |  D  |     |     |  A  |  C  |  B  |  A  |  C  |   5/7    |   8/10   |
 |       coreyrein      |     |     |     |     |     |     |     |     |  A  |     |   1/1    |   1/1    |
 |       Da_Bullss      |     |     |     |     |     |     |     |     |     |  C  |   1/1    |   1/1    |
 |      Defreshs10      |     |     |     |     |     |     |     |     |     |  D  |   0/1    |   0/1    |
 |       demitris       |     |     |     |     |  D  |     |     |     |     |     |   0/1    |   0/1    |
-|      DerekLChase     |     |     |     |     |     |     |     |     |  A  |  D  |   1/2    |   1/2    |
-|        Eldias        |     |     |     |     |     |     |     |  B  |  A  |  C  |   3/3    |   5/5    |
-|       fauxjolly      |     |     |     |     |     |     |  C  |  B  |     |     |   2/2    |   2/2    |
 |      felineswell     |     |     |     |     |     |     |  C  |     |     |     |   1/1    |   1/1    |
 |       freakers       |     |     |     |     |     |     |     |     |     |  C  |   1/1    |   1/1    |
 |  GermanDeath-Reggae  |     |     |     |     |     |     |  C  |     |     |     |   1/1    |   1/1    |
-|        giglia        |  A  |     |     |     |     |     |     |     |     |  C  |   1/2    |   6/7    |
-|       homininet      |     |     |     |     |     |     |     |     |  A  |  D  |   1/2    |   1/2    |
 |    i_am_voldemort    |     |     |     |     |     |     |     |  B  |     |     |   1/1    |   1/1    |
 |      ignorememe      |     |  D  |     |     |     |     |     |     |     |     |   0/1    |   0/1    |
 | ImFeelingTheUte-iest |     |     |     |     |     |     |     |     |  A  |     |   1/1    |   1/1    |
-|   its_sandwich_time  |  B  |  D  |     |     |  D  |  A  |     |  B  |  A  |  C  |   4/7    |   6/9    |
-|     JagerVanKaas     |  B  |  C  |  A  |     |  A  |  A  |  C  |  B  |  A  |  C  |   8/9    |  12/13   |
-|       jimillett      |     |     |     |     |     |     |  C  |     |  A  |     |   2/2    |   2/2    |
 |         KWilt        |     |     |     |     |     |     |     |     |  A  |     |   1/1    |   1/1    |
 |      LorePhoenix     |     |     |     |     |     |     |     |  B  |     |     |   1/1    |   1/1    |
 |      majornugzz      |     |     |     |     |     |     |     |     |  A  |     |   1/1    |   1/1    |
@@ -38,13 +45,9 @@
 |      ocher_stone     |     |     |     |     |     |     |     |  B  |     |     |   1/1    |   2/2    |
 |      Oddly_Todd      |     |     |     |     |     |     |     |     |     |  D  |   0/1    |   0/1    |
 |     OoopsWhoopsie    |     |     |     |     |     |     |     |  B  |     |     |   1/1    |   1/1    |
-| OverturnedAppleCart3 |     |     |     |     |     |  A  |  C  |     |     |     |   2/2    |   2/2    |
 |     PaulSandwich     |     |     |     |     |     |     |  B  |     |     |     |   0/1    |   0/1    |
-|    PhysicalAd1078    |     |     |     |     |     |  A  |  C  |     |     |     |   2/2    |   2/2    |
 |       pmags3000      |     |     |     |     |     |  B  |     |     |     |     |   0/1    |   0/1    |
-|        poored1       |     |     |     |     |     |     |     |     |  A  |  D  |   1/2    |   1/2    |
 |     PowerfulDream    |  A  |     |     |     |     |     |     |     |     |     |   0/1    |   0/1    |
-|  RestaurantNovel8927 |     |     |     |     |     |     |     |  B  |  A  |  C  |   3/3    |   3/3    |
 |        roboats       |     |     |     |     |     |     |     |     |  A  |     |   1/1    |   1/1    |
 |       SAJedi425      |     |  B  |     |     |     |     |     |     |     |     |   0/1    |   0/1    |
 |       slawcool       |     |     |     |     |     |     |  C  |     |     |     |   1/1    |   1/1    |
@@ -52,12 +55,9 @@
 |    SnooBananas3355   |     |     |     |     |     |     |     |     |     |  C  |   1/1    |   1/1    |
 |    Spallanzani333    |     |     |     |     |     |  D  |     |     |     |     |   0/1    |   0/1    |
 |     Spinobreaker     |     |     |     |     |     |     |     |     |  D  |     |   0/1    |   0/1    |
-| Succ_Semper_Tyrannis |     |     |     |     |     |     |  C  |  B  |     |     |   2/2    |   2/2    |
-|  ThomasSecondChance  |     |     |     |     |     |     |  D  |  D  |  C  |  D  |   0/4    |   0/4    |
 |        tomksfw       |     |     |     |     |     |     |     |     |     |  C  |   1/1    |   1/1    |
 | whatnameisntusedalre |     |     |  C  |     |     |     |     |     |     |     |   0/1    |   0/2    |
-|      yossi_peti      |     |     |     |     |     |  A  |     |     |     |  D  |   1/2    |   1/2    |
 |--------------------------------------------------------------------------------------------------------|
-|        Total:        | 0/8 | 3/8 | 1/6 | 1/1 | 1/6 |11/14|13/17|14/15|17/19|12/22|  73/116  | 116/169  |
+|        Total:        | 0/8 | 3/8 | 1/6 | 1/1 | 1/6 |11/14|13/16|14/14|17/18|12/21|  73/112  | 116/165  |
 |--------------------------------------------------------------------------------------------------------|
 
