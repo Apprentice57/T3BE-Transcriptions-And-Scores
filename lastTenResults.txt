@@ -18,7 +18,7 @@
 |    i_am_voldemort    |     |     |     |     |     |  B  |     |     |  D  |     |   2/2    |   2/2    |
 |   its_sandwich_time  |     |     |  D  |  A  |     |  B  |  A  |  C  |  D  |  C  |   6/7    |   8/11   |
 |     JagerVanKaas     |  A  |     |  A  |  A  |  C  |  B  |  A  |  C  |  D  |  C  |   9/9    |  14/15   |
-|       jimillett      |     |     |     |     |  C  |     |  A  |     |     |     |   2/2    |   2/2    |
+|       jimillett      |     |     |     |     |  C  |     |  A  |     |     |  C  |   3/3    |   3/3    |
 |   Kind-Sherbet-7857  |     |     |     |     |     |     |     |     |  D  |  C  |   2/2    |   2/2    |
 |      Oddly_Todd      |     |     |     |     |     |     |     |  D  |  D  |  D  |   1/3    |   1/3    |
 | OverturnedAppleCart3 |     |     |     |  A  |  C  |     |     |     |     |     |   2/2    |   2/2    |
@@ -42,7 +42,6 @@
 |  GermanDeath-Reggae  |     |     |     |     |  C  |     |     |     |     |     |   1/1    |   1/1    |
 |        goibnu        |     |     |     |     |     |     |     |     |     |  D  |   0/1    |   0/1    |
 | ImFeelingTheUte-iest |     |     |     |     |     |     |  A  |     |     |     |   1/1    |   1/1    |
-|       jimillet       |     |     |     |     |     |     |     |     |     |  C  |   1/1    |   1/1    |
 |        jxb1978       |     |     |     |     |     |     |     |     |     |  D  |   0/1    |   0/1    |
 |         KWilt        |     |     |     |     |     |     |  A  |     |     |     |   1/1    |   1/1    |
 |      LorePhoenix     |     |     |     |     |     |  B  |     |     |     |     |   1/1    |   1/1    |
