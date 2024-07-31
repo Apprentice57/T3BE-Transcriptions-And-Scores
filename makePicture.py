@@ -112,8 +112,8 @@ the_table = ax.table(
     colWidths=[0.5] + [0.2] * 12,
 )
 
-the_table.auto_set_font_size(False)
-the_table.set_fontsize(12)
+the_table.auto_set_font_size(True)
+the_table.set_fontsize(13)
 the_table.scale(1, 2)
 
 for (row, col), cell in the_table.get_celld().items():
