@@ -4407,4 +4407,14 @@ B. Yes, because the privilege ends upon divorce.
 C. No, because Patty has no motive to lie.
 D. No, because the statements were confidential and made during the marriage.
 
+Question #R036
+Tommy Tenant rented a house in a residential neighborhood owned by Larry Landlord. Before Tommy signed the monthly lease, he mentioned to Larry that the house's hot-water heater was broken and only pumping out cold water. As a first-year law student taking Property, Tommy knew that the local housing code required a landlord to provide residential tenants with hot water, for the tenant's health and safety. Larry responded by pointing to the lease provision that made Tommy responsible for repairs and providing his own hot water. Tommy signed the lease and moved into the house. After waiting a reasonable amount of time for Larry to fix the hot-water heater, Tommy started paying his monthly rent into an escrow account. Larry demanded that Tommy pay all rent directly to him. After Larry did not receive any rental payments for six months, he filed an action to evict Tommy from the house.
+
+Will Larry succeed in his eviction action against Tommy?
+
+A. No, because Larry has violated the implied warranty of habitability.
+B. No, because Larry's actions constitute a constructive eviction.
+C. Yes, because Tommy knowingly accepted the duty to repair the house.
+D. Yes, because Tommy knowingly waived the implied warranty of habitability.
+
 
