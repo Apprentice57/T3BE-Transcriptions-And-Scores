@@ -3,7 +3,7 @@ QuestionType Public
 IsBonus No
 CountsForThomas Yes
 IsRepeat No
-Answer A
+Answer A. No, because the privilege does not apply.
 
 NegatronThomas A
 ThomasSecondChance D
