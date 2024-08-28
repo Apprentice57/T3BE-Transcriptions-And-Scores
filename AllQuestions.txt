@@ -4431,4 +4431,14 @@ B. Yes, because the contract between the parties was valid and Bob had no legal 
 C. No, because by not paying Bob for the second half of the job, Homer has not satisfied all of his conditions under the contract.
 D. No, because the contract is for personal services.
 
+Question #R038
+Patty Plaintiff is a resident of the Western District of the State of Asgard. She sued Debby Defendant, a resident of the Eastern District of the State of Mordor, for personal injuries she suffered when Debby drunkenly hit her over the head at a pool party in the State of Isengard, which only has one judicial district.
+
+In which judicial districts is venue proper?
+
+A. The Western District of the State of Asgard only.
+B. The Eastern District of the State of Mordor only.
+C. The State of Isengard only.
+D. Either the Eastern District of the State of Mordor or the State of Isengard.
+
 
