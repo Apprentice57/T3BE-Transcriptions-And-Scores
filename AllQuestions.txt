@@ -4454,4 +4454,16 @@ B. Dante did not know that Randall was a minor.
 C. Dante did not sell Randall the beer.
 D. Dante was not the owner, but was only an hourly employee.
 
+Question #R040
+OA Bar Pre With Heather! T3BE39
+
+Paul Plaintiff sued Dale Defendant for breach of contract involving the sale of 50 handmade surfboards, alleging that Dale improperly rejected a shipment of surfboards. Dale defends the suit by introducing evidence that the shipment to his business was only of 15 surfboards, which he rejected. Paul introduced part of an email he sent to Dale the day after the contract was signed stating that there was a production problem which would slightly delay Paul's acquisition of all 50 surfboards. Dale then offers evidence that another part of the email reads, "There is no obligation to receive any surfboards unless they are delivered in one lot of 50 handmade surfboards."
+
+If Paul objects to this evidence, how is the court likely to rule?
+
+A. Dale failed to object to the email and waived any right to introduce any other part of it.
+B. Dale is entitled to introduce evidence of any part of the transaction necessary to make it understood.
+C. Dale's evidence is inadmissible hearsay.
+D. Dale's evidence is inadmissible under the parol evidence rule.
+
 
