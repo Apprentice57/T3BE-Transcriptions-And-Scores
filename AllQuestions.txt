@@ -4488,4 +4488,16 @@ B. No, because Dasha's actual sentence for each offense was less than six months
 C. Yes, because the sizeable fine makes each crime a serious offense.
 D. Yes, because the combined maximum sentence for the offenses was 8 months.
 
+Question #R043
+Are Hot Firefighters a Protected Class?
+
+The City council of Oceania passed an ordinance prohibiting all first responders, like firefighters and paramedics, from working a second job. The council stated that the purpose was to have its first responders available in the face of an emergency such as a wildfire, earthquake, pandemic or other similar reason. Members of Oceania's city council and other city employees did not have this same restriction prohibiting secondary employment. A beloved and long-time firefighter in Oceania, Mike, was upset because the ordinance meant that he would have to give up his well-paying second job as a calendar model. The calendar company sells many calendars, donates money to lots of local organizations in Oceania, and complies with all city ordinances. Mike the firefighter challenged the constitutionality of the ordinance as a violation of the Fourteenth Amendment's Equal Protection Clause.
+
+Is Mike likely to prevail?
+
+A. Yes, because the ordinance is not the least restrictive means of achieving Oceania's legitimate interest.
+B. Yes, because the ordinance unreasonably discriminates against firefighters.
+C. No, because the ordinance is rationally related to Oceania's legitimate interest in health and public safety.
+D. No, because Mike is an at-will employee of the calendar company and does not have a property interest in his second job.
+
 
