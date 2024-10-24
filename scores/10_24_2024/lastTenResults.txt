@@ -7,7 +7,7 @@
 |  ThomasSecondChance  |  D  |  C  |  C  |  C  |  A  |  D  |  A  |  C  |  A  |  B  |   1/10   |   2/17   |
 |     Apprentice57     |  A  |  A  |  B  |  D  |  C  |  D  |  C  |  D  |  A  |  D  |   5/10   |  19/32   |
 | Background-House2313 |  A  |     |  B  |     |     |     |     |     |     |     |   1/2    |   1/2    |
-|     Bukowskified     |  D  |  A  |  B  |  C  |  C  |  B  |  C  |  C  |  A  |     |   4/9    |  15/28   |
+|     Bukowskified     |  D  |  A  |  B  |  C  |  C  |  B  |  C  |  C  |  A  |  A  |   4/10   |  15/29   |
 |  CharlesDickensABox  |     |  A  |  D  |  D  |  C  |  B  |  C  |  A  |     |     |   7/7    |  18/20   |
 |        emacs83       |     |  A  |  B  |     |     |     |     |     |     |     |   1/2    |   1/2    |
 |     hufflepuffin9    |  A  |     |     |     |  C  |     |     |     |     |  D  |   2/3    |   5/6    |
@@ -22,7 +22,6 @@
 |       TheoCaro       |     |     |     |     |  C  |     |     |  C  |  C  |     |   2/3    |   2/3    |
 |      yossi_peti      |     |     |     |     |  C  |  B  |  C  |     |     |  D  |   3/4    |   4/6    |
 |      Aviphysics      |     |     |     |     |     |     |     |     |     |  D  |   0/1    |   0/1    |
-|     bukowskified     |     |     |     |     |     |     |     |     |     |  A  |   0/1    |   0/1    |
 |       Cahootie       |     |     |  B  |     |     |     |     |     |     |     |   0/1    |   0/1    |
 | Careful_Educator_474 |     |     |  B  |     |     |     |     |     |     |     |   0/1    |   0/1    |
 |       Da_Bullss      |     |     |     |  C  |     |     |     |     |     |     |   0/1    |   1/2    |
