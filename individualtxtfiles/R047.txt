@@ -1,0 +1,10 @@
+OA 1086: Trump's Staff Infection
+
+Gabriella was admitted to the hospital with severe pain in the lower right side of her stomach. Her physician, Dr. Jekyll, ran tests that showed Gabriella had appendicitis that required an immediate appendectomy; the woman's appendix would need to be surgically removed. Dr. Jekyll informed Gabriella of the need for surgery and started explaining that the risks included an infection at the site of the incision. Before Dr. Jekyll could explain the additional risks associated with the surgery, Gabriella stopped him and said, "Please don't tell me anything else! I know I need the surgery regardless of the risks!" Immediately after, Dr. Jekyll performed the operation. Due to an unforeseen complication, Gabriella died during the operation. her estate sued Dr. Jekyll for failing to inform her about the risks of the appendectomy. Dr. Jekyll's defense was that Gabriella had provided informed consent for the surgery.
+
+Will Gabriella's estate prevail in its action against Dr. Jekyll?
+
+A. Yes, because Gabriella did not give informed consent for the appendectomy.
+B. Yes, because Dr. Jekyll was bound to inform Gabriella of all the potential risks of the appendectomy.
+C. No, because Gabriella consented to the surgery after refusing to hear about the risks.
+D. No, because Dr. Jekyll was only required to inform Gabriella of the commonly known risks of the appendectomy.
