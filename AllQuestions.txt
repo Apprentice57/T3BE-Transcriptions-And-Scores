@@ -4552,4 +4552,28 @@ B. Yes, because Dr. Jekyll was bound to inform Gabriella of all the potential ri
 C. No, because Gabriella consented to the surgery after refusing to hear about the risks.
 D. No, because Dr. Jekyll was only required to inform Gabriella of the commonly known risks of the appendectomy.
 
+Question #R048
+OA 1089: All the President's... Defense Attorneys
+
+A man owned a house worth $150,000 that had a mortgage on it with $120,000 still owed to the mortgagee. The man used the house for rental purposes to make some money. The tenant in the house had lived there for many years. One day, the tenant announced that she was getting married and was leaving the house and terminating the lease. The man wished her well and listed the house for sale for $150,000. However, he did not receive any offers. Real estate prices began to fall rapidly, and it was not long before the man could not make the mortgage payments on the house. The mortgagee foreclosed on the house, receiving only $50,000 at the property conducted foreclosure sale.
+
+What does the man owe to the mortgagee?
+
+A. The man owes nothing to the mortgagee.
+B. The man owes $70,000 to the mortgagee.
+C. The man owes $120,000 to the mortgagee.
+D. The man owes $150,000 to the mortgagee.
+
+Question #R049
+"The Right Way" Part 2
+
+As Chris walked down the street, he noticed a 1970 Dodge Charger was unlocked and the engine was running. A security guard, Vince, owned the car and parked it in front of his house while he ran in and grabbed the gun that he was licensed to carry. At the same time Vince came out of his front door with the gun, Chris opened the driver's side door to the car. Vince warned Chris not to get in the car or else he'd shoot. Chris ignored the warning. Vince shot and seriously injured Chris. Vince was charged with aggravated battery, which includes battery committed with a deadly weapon.
+
+Can Vince successfully assert defense of property to justify the shooting?
+
+A. No, because Vince was negligent in leaving the car running.
+B. No, because Vince used deadly force.
+C. Yes, because Vince warned Chris before using force against him.
+D. Yes, because Vince reasonably believed that Chris was going to steal the car.
+
 

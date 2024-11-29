@@ -1,0 +1,16 @@
+Question 48
+QuestionType Public
+IsBonus No
+CountsForThomas Yes
+IsRepeat No
+Answer B. The man owes $70,000 to the mortgagee.
+
+NegatronThomas A
+ThomasSecondChance B
+Apprentice57 B
+Bukowskified A
+its_sandwich_time B
+CharlesDickensABox B
+SenorGuero A
+Goofing_Off B
+
