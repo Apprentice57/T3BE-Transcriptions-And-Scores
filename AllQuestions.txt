@@ -4588,4 +4588,16 @@ B. No, because Matthew is not a merchant.
 C. Yes, because Matthew did not state a time period for accepting the offer.
 D. Yes, because consulting with Lydia was not a rejection.
 
+Question #R051
+There’s Something Deeply Wrong With Stephen Miller (And There Always Has Been)
+
+The state of Hawaii enacted a law that prohibited the sale of violent video games to anyone under the age of eighteen and imposed a fine for each violation. The legislative history showed a concern that there was a correlation between playing violent video games and subsequent violent behavior in minors. Blood Rage, a maker of video games, brought suit arguing that the law violated its First Amendment right of free speech.
+
+Is Hawaii's law unconstitutional?
+
+A. Yes, because the state law is a content-based restriction.
+B. Yes, because the costs of such a restriction on speech outweigh its benefits.
+C. No, because states have the power to protect children from harm.
+D. No, because video games do not qualify for First Amendment protection.
+
 
