@@ -10,7 +10,7 @@ python3 tabulateT3BEResults.py "$numQuestions" 1 > allResults.txt
 
 python3 makePicture.py
 
-current_date=$(date +"%m_%d_%Y")
+current_date=$(date +"%Y_%m_%d")
 directory="./scores/$current_date"
 mkdir -p "$directory"
 
