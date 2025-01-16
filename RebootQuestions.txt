@@ -642,4 +642,14 @@ B. Yes, because Vinny nursed the skunk back to health.
 C. No, because Vinny did not possess the skunk when it bit the child.
 D. No, because Vinny never purchased the skunk as a pet.
 
+Question #055
+Professor Paula sued developer David in federal court in California under diversity jurisdiction to void a contract due to mistake. The agreement was for David to create an app that would revolutionize grading by making it faster and easier for Paula. David agreed to build the groundbreaking grading app in one year for $150,000. A few months into the project, David realized it would take two years and $300,000 to create the program for Paula, which was more money than her teacher's salary could afford. In the complaint, Paula alleged that David's promise to finish the app for a specific dollar amount "induced plaintiff to mistakenly enter into the contract with defendant for him to build a grading app" and is suing him to cancel the contract. David has timely moved for a more definite statement of the claim.
+
+Should the federal district court grant David's motion for a more definite statement?
+
+A. Yes, because the circumstances constituting mistake must be pled with particularity.
+B. Yes, because a complaint must show that there is a possibility that the plaintiff is entitled to relief.
+C. No, because the complaint provides the defendant with notice of the claim.
+D. No, because the complaint contains a short and plain statement of the claim.
+
 
