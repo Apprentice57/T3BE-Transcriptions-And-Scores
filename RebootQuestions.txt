@@ -679,7 +679,7 @@ D. Obtaining property by false pretenses.
 Question #058
 DoJ Memo Written In Crayon On Olive Garden Kids Menu Directs SDNY to Drop Eric Adams Case
 
-Carly owns a fleet of trucks for her cake delivery business. She has been advertising a rebrand for several weeks in her store and on social media to generate excitement and more business. Carly hired Paul to repaint the fleet of trucks with the new logo. Paul agreed to paint the trucks for $5,000 and finish the work within 45 days. Paul and Carly signed a contract stating these terms. After signing the agreement, Carly reviewed her calendar and realized that she has been advertising the release of the redesign in 30 days, not 45. Carly immediately calls Paul and asks if he can complete teh day within the 30 day timeframe and he agrees, but only if Carly pays an additional $2,500. Carly is hesitant, but agrees to pay $7,500 in total. Paul paints the entire fleet of trucks with the new logo in the 30 day timeframe. However, Carly only pays Paul the $5,000 and refuses to pay the additional $2,500. Paul files suit against Carly to recover the additional $2,500.
+Carly owns a fleet of trucks for her cake delivery business. She has been advertising a rebrand for several weeks in her store and on social media to generate excitement and more business. Carly hired Paul to repaint the fleet of trucks with the new logo. Paul agreed to paint the trucks for $5,000 and finish the work within 45 days. Paul and Carly signed a contract stating these terms. After signing the agreement, Carly reviewed her calendar and realized that she has been advertising the release of the redesign in 30 days, not 45. Carly immediately calls Paul and asks if he can complete the day within the 30 day timeframe and he agrees, but only if Carly pays an additional $2,500. Carly is hesitant, but agrees to pay $7,500 in total. Paul paints the entire fleet of trucks with the new logo in the 30 day timeframe. However, Carly only pays Paul the $5,000 and refuses to pay the additional $2,500. Paul files suit against Carly to recover the additional $2,500.
 
 Who will prevail in this lawsuit?
 
@@ -687,5 +687,21 @@ A. Paul, because Carly had a pre-existing duty to perform.
 B. Paul, because he made a new promise to Carly in exchange for more money.
 C. Carly, because Paul had a pre-existing duty to paint the trucks.
 D. Carly, because Paul exerted undue influence over her regarding the additional $2,500.
+
+Question #059
+The Thursday Night Massacre, Part 2
+
+Ben and Sabrina were living in different states when they entered into a valid agreement stating that Ben would buy and Sabrina would sell a painting. The contract claimed that the painting was an original by Georgia O'Keefe reportedly worth $3 million, and Ben agreed to pay that amount. In a separate valid contract, Ben agreed to purchase a beachfront home in California from Sabrina worth $10 million. The purchase of the painting was completed on July 1.
+
+Before Ben brought the home, he resold the painting but only received $500 because it turned out to be a forgery. Ben promptly told Sabrina of his intent to sue her for $3 million in damages. Sabrina then informed him that she would not move forward with the sale of the home.
+
+Ben filed suit against Sabrina in federal court in California. Ben claimed fraud as to the painting and sought $3 million in damages. Ben also claimed breach of contract as to the home, and sought specific performance. He demanded a jury trial on all issues.
+
+Is Ben entitled to a jury trial?
+
+A. Yes, as to both the fraud claim and the breach of contract claim.
+B. Yes as to the fraud claim, but no as to the breach of contract claim.
+C. No as to the fraud claim, but yes as to the breach of contract claim.
+D. No, as to both the fraud claim and the breach of contract claim.
 
 
