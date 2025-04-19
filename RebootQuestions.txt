@@ -775,9 +775,21 @@ Emmy, a licensed esthetician, owned a waxing center, Hair Free Carefree, in the 
 
 If the city of Bayside moves to dismiss the lawsuit on the basis that Emmy lacks standing, will the city win?
 
-A. No, because the ordiance prevents the employees from exercising their free speech rights under the 1st Amendment.
+A. No, because the ordinance prevents the employees from exercising their free speech rights under the 1st Amendment.
 B. No, because the employees and Emmy have rights that are harmed by the ordinance.
 C. Yes, because only the employees can raise their 1st Amendment rights of association.
 D. Yes, because the ordinance does not prohibit the operation of waxing centers per se, but only the right of the female employees to service female customers.
+
+Question #066
+T3BE66: Drowning in Camera Repair Debt
+
+A father was walking in Golden Gate Park with his young daughter, when they passed by Blue Heron Lake. The daughter walked close to the edge of the lake, as she wanted to feed the herons that inhabited the Lake. The daughter got too close, fell in, and begun to drown because she could not swim. The father yelled for help because he did not know how to swim, either. A nature photographer was standing nearby and had been photographing the beautiful scenery at the park when he heard the father's screams for help. The photographer dropped his expensive, professional camera to jump in the lake and save the daughter. The camera was destroyed beyond repair. When the father met the photographer at the edge of the lake, the father thanked him profusely and promised to pay the photographer to replace the camera in a few weeks. Two weeks later, when the photographer asked for the money to purchase a new camera, the father had a change of heart and refused to pay.
+
+Can the photographer recover the cost of the camera from the father, under the common law?
+
+A. No, because the daughter, and not the father, received a material benefit from the photographer.
+B. No, because the father's promise to pay for the camera is not supported by consideration.
+C. Yes, because the photographer suffered a detriment when he dropped his camera to save the daughter.
+D. Yes, because the photographer can recover through specific performance.
 
 
