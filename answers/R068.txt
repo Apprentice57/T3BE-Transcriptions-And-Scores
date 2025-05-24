@@ -3,7 +3,7 @@ QuestionType Public
 IsBonus No
 CountsForThomas Yes
 IsRepeat No
-Answer D. Wendy and Kelly as tenants in common
+Answer D. Wendy and Kelly as Tenants in Common.
 
 NegatronThomas C
 ThomasSecondChance A
@@ -14,10 +14,9 @@ its_sandwich_time A
 giglia D
 southernengineering D
 Shadowfalx C
-pmags3000
+pmags3000 C
 Bukowskified D
 MegaTrain C
 TheoCaro C
 chayashida C
 Apprentice57 C
-

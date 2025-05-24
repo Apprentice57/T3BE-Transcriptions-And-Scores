@@ -1,4 +1,3 @@
-An error occurred: Malformed input file ./answers/R068.txt. All lines should have 2 or more words.
  ________________________________________________________________________________________________________ 
 |    Username / Q#->   |  60 |  61 |  62 |  63 |  64 |  65 |  66 |  67 |  68 |  69 | Last 10  |  Total   |
 |--------------------------------------------------------------------------------------------------------|
@@ -7,17 +6,19 @@ An error occurred: Malformed input file ./answers/R068.txt. All lines should hav
 |    NegatronThomas    |  A  |  D  |  D  |  A  |  D  |  B  |  C  |  B  |  C  |  C  |   4/10   |  38/65   |
 |  ThomasSecondChance  |  B  |  C  |  B  |  B  |  A  |  D  |  B  |  C  |  A  |  D  |   5/10   |  12/42   |
 |      1Blackfaer      |     |     |  B  |     |  A  |  B  |     |     |     |  C  |   4/4    |   5/5    |
-|     Apprentice57     |  A  |  D  |  B  |  B  |  D  |  C  |  B  |  D  |     |  C  |   6/9    |  34/56   |
-|     Bukowskified     |  A  |  A  |  D  |  A  |  D  |  B  |     |     |     |  B  |   2/7    |  26/51   |
+|     Apprentice57     |  A  |  D  |  B  |  B  |  D  |  C  |  B  |  D  |  C  |  C  |   6/10   |  34/57   |
+|     Bukowskified     |  A  |  A  |  D  |  A  |  D  |  B  |     |     |  D  |  B  |   3/8    |  27/52   |
 |  CharlesDickensABox  |     |     |     |     |     |     |     |  D  |  D  |     |   1/2    |  27/32   |
-|      chayashida      |  A  |  D  |  B  |  A  |     |     |     |  D  |     |  C  |   4/6    |   7/10   |
+|      chayashida      |  A  |  D  |  B  |  A  |     |     |     |  D  |  C  |  C  |   4/7    |   7/11   |
 |        Eldias        |     |     |  B  |  D  |     |     |     |     |     |     |   1/2    |  15/20   |
 |     fckinsurance     |  A  |  D  |  B  |     |     |  B  |     |     |     |     |   4/4    |   4/4    |
 |        giglia        |     |  A  |     |     |     |     |     |     |  D  |     |   1/2    |   9/11   |
 |   its_sandwich_time  |  D  |  C  |  B  |  B  |  A  |  B  |  B  |  B  |  A  |  C  |   6/10   |  35/46   |
+|       MegaTrain      |     |     |     |  B  |     |     |     |     |  C  |     |   1/2    |   4/5    |
+|       pmags3000      |     |     |     |     |     |     |     |     |  C  |  B  |   0/2    |   0/4    |
 |   Skeptical_Monkie   |     |     |     |     |  A  |     |     |  D  |  D  |     |   2/3    |   2/3    |
 |     takethebisque    |     |  D  |  B  |     |     |     |     |     |     |  C  |   3/3    |   8/8    |
-|       TheoCaro       |     |  D  |  B  |     |     |     |     |  D  |     |  C  |   3/4    |   5/7    |
+|       TheoCaro       |     |  D  |  B  |     |     |     |     |  D  |  C  |  C  |   3/5    |   5/8    |
 |      wrosecrans      |     |     |     |     |  A  |     |     |  D  |     |     |   1/2    |   1/2    |
 |        chupa71       |  A  |     |     |     |     |     |     |     |     |     |   1/1    |   1/2    |
 |   Cultural_Boat4007  |     |     |     |  B  |     |     |     |     |     |     |   1/1    |   1/1    |
@@ -27,11 +28,9 @@ An error occurred: Malformed input file ./answers/R068.txt. All lines should hav
 |     hufflepuffin9    |  D  |     |     |     |     |     |     |     |     |     |   0/1    |   6/8    |
 |      IMM_Austin      |     |     |     |     |     |     |     |     |  D  |     |   1/1    |   3/3    |
 |      jasonrennie     |     |     |  A  |     |     |     |     |     |     |     |   0/1    |   1/2    |
-|       MegaTrain      |     |     |     |  B  |     |     |     |     |     |     |   1/1    |   4/4    |
 |      MikeyMalloy     |     |     |     |     |     |     |     |  B  |     |     |   0/1    |   0/1    |
 |   NotmyRealNameJohn  |     |     |     |     |  A  |     |     |     |     |     |   1/1    |   1/1    |
 |   NotmyrealNameJohn  |     |     |     |  B  |     |     |     |     |     |     |   1/1    |   1/1    |
-|       pmags3000      |     |     |     |     |     |     |     |     |     |  B  |   0/1    |   0/3    |
 | Professional_Law4639 |     |     |     |     |     |     |  B  |     |     |     |   1/1    |   1/1    |
 |       RampantAI      |     |     |     |     |     |     |     |     |     |  D  |   0/1    |   0/1    |
 |        rctbob        |     |     |     |     |     |     |  B  |     |     |     |   1/1    |   2/2    |
@@ -44,6 +43,6 @@ An error occurred: Malformed input file ./answers/R068.txt. All lines should hav
 |       undiwahn       |     |     |     |     |     |     |     |  B  |     |     |   0/1    |   0/1    |
 |     vanburen1845     |  D  |     |     |     |     |     |     |     |     |     |   0/1    |   0/1    |
 |--------------------------------------------------------------------------------------------------------|
-|        Total:        | 8/11| 6/9 | 8/11| 5/9 | 5/8 | 5/6 | 4/6 | 1/14| 5/8 | 7/10|  54/92   | 244/368  |
+|        Total:        | 8/11| 6/9 | 8/11| 5/9 | 5/8 | 5/6 | 4/6 | 1/14| 6/14| 7/10|  55/98   | 245/374  |
 |--------------------------------------------------------------------------------------------------------|
 

@@ -1,13 +1,13 @@
-Can a Priest Rat You Out?
+Getting Our Dramshop Act Together
 
-A seller of office chairs, Martha Sitz sued the manufacturer of the chairs, Comfort 4U, for breach of contract, alleging that the chairs failed to conform to contract specifications. Not long before trial began, Martha suffered a serious head injury that left her unable to move or communicate. A guardian was properly substituted as the plaintiff in the lawsuit.
+Patty was walking in a crosswalk near her home while she was hit and seriously injured by a truck driven by drunk driver, Dillon. He had just left his local bar, Thomas' Tavern, after being served many drinks by the bartender, Billie.
 
-At trial, after the presentation of Martha's case, Comfort 4U calls as a witness, Alberto who is a priest, to question him about a conversation he had with Martha at a church fundraiser. In this conversation, Martha told Alberto in confidence that the chairs she received were fully functional, but that she learned one of Comfort 4U's competitors offered a lower price, and wanted to get out of her contract with the company. Martha's attorney immediately objects on the basis of clergy-penitent privilege.
+Patty sued Billie in a jurisdiction that does not have a dramshop act.
 
-How should the court rule on the objection?
+Is Billie vicariously liable for Patty's injuries?
 
-A. Overruled, because the privilege can be invoked only by the person who made the confidential statement.
-B. Overruled, because the circumstances under which Martha made the statement take it outside the scope of the privilege.
-C. Sustained, because Martha's statement was made to Alberto in confidence.
-D. Sustained, because this is not a criminal case.
+A. Yes, because Dillon caused Patty to suffer personal injuries.
+B. Yes, because there is no dramshop act in the jursidction to limit liability.
+C. No, because there is no dramshop act in the jurisdiction to impose liability.
+D. No, because Dillon acted recklessly by driving while drunk.
 
