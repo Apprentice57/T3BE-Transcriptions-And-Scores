@@ -2,9 +2,9 @@ import sys, os
 
 files = []
 
-folder = "answers"
+folder = "question_guesses"
 
-#add all txt files in /answers as the source of question data.
+#add all txt files in /question_guesses as the source of question data.
 for filename in os.listdir("./" + folder):
     if filename.endswith(".txt") and filename != "nextquestion.txt":
         files.append(filename)

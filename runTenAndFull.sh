@@ -1,6 +1,6 @@
 #!/bin/bash
 
-numQuestions=$(find ./answers -type f -name "*.txt" | wc -l)
+numQuestions=$(find ./question_guesses -type f -name "*.txt" | wc -l)
 
 rm lastTenResults.txt
 rm allResults.txt
