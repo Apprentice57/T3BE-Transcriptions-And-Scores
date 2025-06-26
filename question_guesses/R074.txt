@@ -1,0 +1,21 @@
+Question 74
+QuestionType Public
+IsBonus No
+CountsForThomas Yes
+IsRepeat No
+Answer C. Tom cannot avoid testifying, because he can plead the Fifth Amendment on the stand.
+
+NegatronThomas C
+ThomasSecondChance D
+Apprentice57 C
+IMM_Austin C
+OneJarOfPeanutButter C
+seligman99 C
+its_sandwich_time C
+CharlesDickensABox C
+chayashida C
+Im_The_Mary C
+Skeptical_Monkie A
+Bukowskified C
+DeliveratorMatt C
+
