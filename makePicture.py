@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+pd.set_option('future.no_silent_downcasting', True)
 import matplotlib.pyplot as plt
 from matplotlib import colors as mcolors
 import numpy as np
@@ -35,7 +36,7 @@ def main():
 
     # Grab user names who have been active in the last 10
     users, last_10, all_scores = get_user_names(last_10_lines)
-    
+
     # Create Pretty Table
     # Put dataframe into pretty table
     table_columns = ["Username / Q#"] + question_num[-10:] + ["Last 10", "Total"]
@@ -48,7 +49,7 @@ def main():
     for nUser in range(0,len(users)):
         user_score = score_user(all_lines, users[nUser], answers)
         cell_text.append([users[nUser]] + user_score.Answer[-10:].to_list() + [last_10[nUser], all_scores[nUser]])
-        
+
         # Build color array based on streaks
         row_color = [user_color[nUser % 2]]
         for nScore in range(len(user_score)-10,len(user_score)):
@@ -63,11 +64,11 @@ def main():
         row_color.append(user_color[nUser % 2])
         row_color.append(user_color[nUser % 2])
         colors.append(row_color)
-                
+
     totals = total_line[-12:]
     totals.insert(0,total_line[0])
     cell_text.append(totals)
-    
+
     row_color = [title_cell_hex]
     for nScore in range(1,len(totals)-2):
         int_list = [int(s) for s in totals[nScore].split("/")]
@@ -76,12 +77,12 @@ def main():
     row_color.append(title_cell_hex)
     row_color.append(title_cell_hex)
     colors.append(row_color)
-    
+
     # Make Plot
     fig, ax = plt.subplots()
     ax.axis("tight")
     ax.axis("off")
-    
+
     the_table = ax.table(
         cellText=cell_text,
         cellColours=colors,
@@ -89,24 +90,24 @@ def main():
         loc="center",
         colWidths=[0.5] + [0.2] * 12,
     )
-    
+
     the_table.auto_set_font_size(False)
     the_table.set_fontsize(12)
     the_table.scale(1, 2)
-    
-    
-    for i, col_name in enumerate(table_columns): 
+
+
+    for i, col_name in enumerate(table_columns):
         cell = the_table.get_celld()[(0, i)]
         cell.set_text_props(weight='bold',color=font_color)
         cell.set_fontsize(16)
         cell.set_facecolor(title_cell_hex)
-        
+
         cell = the_table.get_celld()[(len(cell_text), i)]
         cell.set_fontsize(16)
 
 
-    
-    for (row, col), cell in the_table.get_celld().items():  
+
+    for (row, col), cell in the_table.get_celld().items():
         cell.set_text_props(weight='bold',ha='center',va='center',fontname=font_type)
         #Set font color for answers
         if row > 1 and col != 0 and col != 11 and col != 12:
@@ -114,7 +115,7 @@ def main():
         else:
             cell.set_text_props(color=font_color)
 
-            
+
     fig.savefig(output_path, bbox_inches="tight")
     plt.close(fig)
 
@@ -161,7 +162,7 @@ def get_user_names(lines):
                 users.append(user_name)
                 last_10.append(line[-3].replace(" ", ""))
                 all_scores.append(line[-2].replace(" ", ""))
-            
+
     return users, last_10, all_scores
 
 
@@ -178,7 +179,7 @@ def score_user(lines, user, answers):
                 score = [a == b for a, b in zip(user_answer, answers)]
                 user_dict.update({"Score": score})
                 user_score = pd.DataFrame.from_dict(user_dict)
-                
+
                 user_score['Score'] = user_score['Score'].astype('object')
                 user_score.loc[user_score['Answer'] == '', 'Score'] = pd.NA
 
@@ -191,7 +192,7 @@ def score_user(lines, user, answers):
                     .add(1)
                     * user_score["Score"]
                 )
-                
+
                 user_score['inverted_Score'] = ~user_score['Score'].astype('boolean')
                 user_score["Cold_Streak"] = (
                     user_score.groupby(
@@ -201,7 +202,7 @@ def score_user(lines, user, answers):
                     .add(1)
                     * user_score["inverted_Score"]
                 )
-                
+
     return user_score
 
 
