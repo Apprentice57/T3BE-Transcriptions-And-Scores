@@ -4909,7 +4909,7 @@ A driver and a passenger were involved in a car accident. Shortly thereafter, th
 
 Assuming a proper foundation is laid, may the summary of the accident be read into evidence? 
 
-A: Yes, because it refreshes the passenger's recollection. 
-B: Yes, because the passenger's memory of the actual event is insufficient.
-C: Yes, even though it is hearsay because of the out-of-court declarant is on the stand and is capable of being cross-examined.
-D: No, because the best evidence is the writing itself.
+A. Yes, because it refreshes the passenger's recollection. 
+B. Yes, because the passenger's memory of the actual event is insufficient.
+C. Yes, even though it is hearsay because of the out-of-court declarant is on the stand and is capable of being cross-examined.
+D. No, because the best evidence is the writing itself.
