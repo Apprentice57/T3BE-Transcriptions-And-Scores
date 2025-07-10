@@ -15,7 +15,7 @@ cold_map = mcolors.LinearSegmentedColormap.from_list("coldStreak", ["lightcoral"
 score_map = mcolors.LinearSegmentedColormap.from_list("scoreMap", ["red","yellow","green"], 10)
 
 font_color = mcolors.to_hex('gainsboro')
-font_type = "Garamond"
+font_type = "DejaVu Sans" #Matt sends his deepest dissapointment "Garamond"
 fig_color = "#282814"
 title_cell_hex = "#3c3c50"
 answer_color = mcolors.to_hex('black')
@@ -185,7 +185,7 @@ def score_user(lines, user, answers):
                 #Calculate Hot and Cold Streaks
                 user_score["Hot_Streak"] = (
                     user_score.groupby(
-                        (user_score["Score"]& ~user_score["Score"].shift(1).fillna(False)).cumsum()
+                        (user_score["Score"]& ~user_score["Score"].shift(1).fillna(False).infer_objects(copy=False)).cumsum()
                     )
                     .cumcount()
                     .add(1)
@@ -195,7 +195,7 @@ def score_user(lines, user, answers):
                 user_score['inverted_Score'] = ~user_score['Score'].astype('boolean')
                 user_score["Cold_Streak"] = (
                     user_score.groupby(
-                        (user_score["inverted_Score"]& ~user_score["inverted_Score"].shift(1).fillna(False)).cumsum()
+                        (user_score["inverted_Score"]& ~user_score["inverted_Score"].shift(1).fillna(False).infer_objects(copy=False)).cumsum()
                     )
                     .cumcount()
                     .add(1)
