@@ -1,10 +1,10 @@
-Accidental Evidence
+T3BE76: Accidental Evidence
 
 A driver and a passenger were involved in a car accident. Shortly thereafter, the passenger wrote a summary of the events surrounding the accident in a journal entry. At trial three years later, the passenger is on the stand and unable to accurately recall the details of the accident, even after reviewing his written summary about the accident from his journal.
 
-Assuming a proper foundation is laid, may the summary of the accident be read into evidence? 
+Assuming a proper foundation is laid, may the summary of the accident be read into evidence?
 
-A: Yes, because it refreshes the passenger's recollection. 
-B: Yes, because the passenger's memory of the actual event is insufficient.
-C: Yes, even though it is hearsay because of the out-of-court declarant is on the stand and is capable of being cross-examined.
-D: No, because the best evidence is the writing itself.
+A. Yes, because it refreshes the passenger's recollection.
+B. Yes, because the passenger's memory of the actual event is insufficient.
+C. Yes, even though it is hearsay, because the out-of-court declarant is on the stand and is capable of being cross-examined.
+D. No, because the best evidence is the writing itself.
