@@ -1,0 +1,8 @@
+Following the Interpleader
+
+Elsa was a single woman with a life insurance policy that pays her designated beneficiary $74,000 upon her death. She tragically died in a boating accident. Her ex-boyfriend Anthony was a resident of Arkansas and named as beneficiary. But her mother Mary, a resident of California, also filed a claim for the life insurance proceeds. The insurance company, A Delaware Corporation, having its principal place of business in California, filed an interpleader action in federal court to protect itself from potentially inconsistent and multiple claims. May the insurance company bring the interpleader action in federal court.
+
+A. No because there is no federal court where the insurance company will be able to establish personal jurisdiction over both claimants.
+B. No because the insurance company is not diverse from one of the claimants.
+C. No because the amount in controversy does not exceed $75,000 and there is no diversity between the insurance company and one of the claimants.
+D. Yes because the amount in controversy is $500 or more and both claimants are diverse from one another.
