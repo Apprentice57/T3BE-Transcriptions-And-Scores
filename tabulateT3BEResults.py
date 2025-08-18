@@ -180,13 +180,13 @@ def calculateStats(fullAnswers, fullMD, names, cutoff):
                         if userAnswer == correctAnswer:
                             numCorrect += 1
 
-                    if n == "NegatronThomas" or n == "ThomasSecondChance":
+                    #if n == "NegatronThomas" or n == "ThomasSecondChance":
                         #For Thomas, no change if it's a repeat he got wrong
                         #But don't count the question if it's a repeat he got right
-                        if fullMD[m]["IsRepeat"] == "Yes":
-                            if userAnswer == correctAnswer:
-                                numAnswered -= 1
-                                numCorrect -= 1
+                    #    if fullMD[m]["IsRepeat"] == "Yes":
+                    #        if userAnswer == correctAnswer:
+                    #            numAnswered -= 1
+                    #            numCorrect -= 1
                                 #i -= 1
 
                 #count for both stats
@@ -199,15 +199,15 @@ def calculateStats(fullAnswers, fullMD, names, cutoff):
                             numCorrect += 1
                             numCorrectSub += 1
 
-                    if n == "NegatronThomas" or n == "ThomasSecondChance":
+                    #if n == "NegatronThomas" or n == "ThomasSecondChance":
                         #For Thomas, no change if it's a repeat he got wrong
                         #But don't count the question if it's a repeat he got right
-                        if fullMD[m]["IsRepeat"] == "Yes":
-                            if userAnswer == correctAnswer:
-                                numAnswered -= 1
-                                numAnsweredSub -= 1
-                                numCorrect -= 1
-                                numCorrectSub -= 1
+                    #    if fullMD[m]["IsRepeat"] == "Yes":
+                    #        if userAnswer == correctAnswer:
+                    #            numAnswered -= 1
+                    #            numAnsweredSub -= 1
+                    #            numCorrect -= 1
+                    #            numCorrectSub -= 1
                                 #i -= 1
                 i += 1
 
