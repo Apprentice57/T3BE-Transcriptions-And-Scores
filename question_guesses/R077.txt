@@ -3,7 +3,7 @@ QuestionType Public
 IsBonus No
 CountsForThomas Yes
 IsRepeat No
-Answer A.
+Answer A. Yes, because her husband was one of the people she saw lying in the wreckage.
 
 NegatronThomas D
 ThomasSecondChance C
