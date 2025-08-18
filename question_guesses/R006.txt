@@ -6,6 +6,7 @@ IsRepeat No
 Answer A. No, because exigent circumstances justified the officers' entry.
 
 NegatronThomas D
+ThomasSecondChance B
 CharlesDickensABox A
 ansible47 A
 DeliveratorMatt D
