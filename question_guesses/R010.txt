@@ -6,6 +6,7 @@ IsRepeat Yes
 Answer A. No, because it is a statement made in the course of compromise negotiations.
 
 NegatronThomas A
+ThomasSecondChance C
 Eldias A
 giglia A
 Bukowskified D
